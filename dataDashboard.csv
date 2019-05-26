@@ -1,0 +1,1407 @@
+,OverallQual,GrLivArea,GarageCars,GarageArea,TotalBsmtSF,1stFlrSF,FullBath,YearBuilt,YearRemodAdd,TotRmsAbvGrd,MasVnrArea,Fireplaces,BsmtFinSF1,KitchenQual,ExterQual,BsmtQual,HeatingQC,SalePrice
+0,Good,1710,2,548,856,856,2,2003,2003,8,196.0,0,706,Good,Good,Good,Excellent,208500
+1,Above Average,1262,2,460,1262,1262,2,1976,1976,6,0.0,1,978,Average,Average,Good,Excellent,181500
+2,Good,1786,2,608,920,920,2,2001,2002,6,162.0,1,486,Good,Good,Good,Excellent,223500
+3,Good,1717,3,642,756,961,1,1915,1970,7,0.0,1,216,Good,Average,Average,Good,140000
+4,Very Good,2198,3,836,1145,1145,2,2000,2000,9,350.0,1,655,Good,Good,Good,Excellent,250000
+5,Average,1362,2,480,796,796,1,1993,1995,5,0.0,0,732,Average,Average,Good,Excellent,143000
+6,Very Good,1694,2,636,1686,1694,2,2004,2005,7,186.0,1,1369,Good,Good,Excellent,Excellent,307000
+7,Good,1774,2,468,952,1022,2,1931,1950,8,0.0,2,0,Average,Average,Average,Good,129900
+8,Average,1077,1,205,991,1077,1,1939,1950,5,0.0,2,851,Average,Average,Average,Excellent,118000
+9,Average,1040,1,384,1040,1040,1,1965,1965,5,0.0,0,906,Average,Average,Average,Excellent,129500
+10,Excellent,2324,3,736,1175,1182,3,2005,2006,11,286.0,2,998,Excellent,Excellent,Excellent,Excellent,345000
+11,Average,912,1,352,912,912,1,1962,1962,4,0.0,0,737,Average,Average,Average,Average,144000
+12,Good,1494,3,840,1494,1494,2,2006,2007,7,306.0,1,0,Good,Good,Good,Excellent,279500
+13,Above Average,1253,1,352,1253,1253,1,1960,1960,5,212.0,1,733,Average,Average,Average,Average,157000
+14,Good,854,2,576,832,854,1,1929,2001,5,0.0,0,0,Average,Average,Average,Excellent,132000
+15,Above Average,1004,2,480,1004,1004,1,1970,1970,5,180.0,1,578,Average,Average,Average,Excellent,149000
+16,Below Average,1296,2,516,0,1296,2,1967,1967,6,0.0,0,0,Average,Average,None,Average,90000
+17,Average,1114,2,576,1114,1114,1,2004,2004,6,0.0,0,646,Good,Average,Average,Excellent,159000
+18,Average,1339,1,294,1029,1339,1,1958,1965,6,0.0,0,504,Average,Average,Average,Average,139000
+19,Very Good,2376,3,853,1158,1158,3,2005,2006,9,380.0,1,0,Good,Good,Excellent,Excellent,325300
+20,Good,1108,1,280,637,1108,1,1930,1950,6,0.0,1,0,Good,Average,Average,Excellent,139400
+21,Very Good,1795,2,534,1777,1795,2,2002,2002,7,281.0,1,0,Good,Good,Good,Excellent,230000
+22,Average,1060,2,572,1040,1060,1,1976,1976,6,0.0,1,840,Average,Average,Good,Average,129900
+23,Average,1060,1,270,1060,1060,1,1968,2001,6,0.0,1,188,Good,Average,Average,Excellent,154000
+24,Very Good,1600,3,890,1566,1600,2,2007,2007,7,640.0,1,0,Good,Good,Good,Excellent,256300
+25,Average,900,2,576,900,900,1,1951,2000,5,0.0,0,234,Good,Average,Average,Average,134800
+26,Very Good,1704,3,772,1704,1704,2,2007,2008,7,200.0,1,1218,Good,Good,Excellent,Excellent,306000
+27,Average,1600,1,319,1484,1600,1,1957,1997,6,0.0,2,1277,Average,Average,Average,Average,207500
+28,Below Average,520,1,240,520,520,1,1927,1950,4,0.0,0,0,Fair,Average,Average,Fair,68500
+29,Below Average,1317,1,250,649,649,1,1920,1950,6,0.0,0,0,Average,Average,Average,Average,40000
+30,Average,1228,1,271,1228,1228,1,1966,2006,6,0.0,0,0,Good,Average,Average,Good,149350
+31,Very Good,1234,2,484,1234,1234,2,2007,2007,7,0.0,0,0,Good,Good,Excellent,Excellent,179900
+32,Average,1700,2,447,1398,1700,1,1959,1959,6,0.0,1,1018,Good,Average,Average,Good,165500
+33,Excellent,1561,2,556,1561,1561,2,2005,2005,6,246.0,1,1153,Excellent,Excellent,Excellent,Excellent,277500
+34,Very Good,2452,3,691,1117,1132,3,2004,2005,9,132.0,1,0,Good,Good,Excellent,Excellent,309000
+35,Average,1097,2,672,1097,1097,1,1994,1995,6,0.0,0,0,Average,Average,Good,Excellent,145000
+36,Average,1297,2,498,1297,1297,1,1954,1990,5,650.0,1,1213,Average,Average,Average,Good,153000
+37,Average,1057,1,246,1057,1057,1,1953,2007,5,0.0,0,731,Good,Average,Average,Average,109000
+38,Below Average,1152,0,0,0,1152,2,1955,1955,6,0.0,0,0,Fair,Average,None,Average,82000
+39,Above Average,1324,2,440,1088,1324,2,1965,1965,6,101.0,1,643,Average,Average,Average,Excellent,160000
+40,Average,1328,1,308,1350,1328,1,1959,1959,5,0.0,2,967,Average,Average,Average,Good,170000
+41,Average,884,2,504,840,884,1,1983,1983,5,0.0,0,747,Good,Average,Good,Good,144000
+42,Average,938,1,308,938,938,1,1975,1980,5,0.0,0,280,Average,Average,Good,Average,130250
+43,Average,1150,1,300,1150,1150,1,1959,1959,6,0.0,0,179,Average,Average,Average,Excellent,141000
+44,Excellent,1752,2,576,1752,1752,2,2005,2005,6,412.0,1,456,Excellent,Excellent,Excellent,Excellent,319900
+45,Good,2149,2,670,1434,1518,1,2003,2003,6,0.0,1,1351,Good,Good,Excellent,Excellent,239686
+46,Very Good,1656,3,826,1656,1656,2,2006,2006,7,0.0,0,24,Good,Good,Good,Excellent,249700
+47,Below Average,1452,0,0,736,736,2,1920,2008,8,0.0,0,0,Average,Average,Average,Good,113000
+48,Average,955,1,386,955,955,1,1966,1966,6,0.0,0,763,Average,Average,Average,Excellent,127000
+49,Above Average,1470,2,388,794,794,2,1997,1997,6,0.0,0,182,Average,Average,Good,Good,177000
+50,Above Average,1176,2,528,816,816,1,1934,1950,6,0.0,1,0,Average,Average,Average,Average,114500
+51,Average,816,2,516,816,816,1,1963,1963,5,0.0,0,104,Average,Fair,Good,Average,110000
+52,Average,1360,2,572,384,1360,1,1955,1955,6,0.0,1,384,Average,Average,Average,Average,130000
+53,Above Average,1425,2,576,1425,1425,2,1964,1964,7,272.0,1,490,Average,Average,Average,Good,180500
+54,Very Good,1739,2,480,970,983,2,1999,2000,7,456.0,0,649,Good,Good,Good,Excellent,172500
+55,Good,1720,2,565,860,860,2,2004,2004,7,0.0,0,0,Good,Good,Good,Excellent,196500
+56,very Excellent,2945,3,641,1410,1426,3,2006,2006,10,1031.0,1,0,Good,Excellent,Excellent,Excellent,438780
+57,Average,780,1,352,780,780,1,1972,1972,4,0.0,0,632,Average,Average,Average,Excellent,124900
+58,Above Average,1158,2,576,1158,1158,1,2004,2004,5,0.0,0,941,Good,Average,Good,Excellent,158000
+59,Average,1111,1,288,530,581,1,1920,1996,6,0.0,0,0,Fair,Average,Average,Average,101000
+60,Very Good,1370,2,484,1370,1370,2,2006,2006,6,178.0,1,24,Good,Good,Good,Excellent,202500
+61,Good,1710,2,480,576,902,2,1921,1950,9,0.0,0,0,Average,Average,Average,Good,140000
+62,Good,2034,2,645,1057,1057,2,1997,1998,8,573.0,0,739,Good,Average,Good,Excellent,219500
+63,Very Good,2473,3,852,1143,1143,2,2004,2005,9,344.0,1,0,Good,Good,Excellent,Excellent,317000
+64,Good,2207,2,576,1947,2207,2,1970,1989,7,287.0,1,912,Average,Average,Good,Average,180000
+65,Good,1479,2,558,1453,1479,2,2003,2003,7,167.0,0,1013,Good,Good,Good,Excellent,226000
+66,Below Average,747,1,220,747,747,1,1945,1950,4,0.0,0,0,Average,Average,Average,Average,80000
+67,Good,2287,2,667,1304,1304,2,1953,1953,7,0.0,1,603,Average,Good,Average,Average,225000
+68,Good,2223,2,516,2223,2223,2,1973,1973,8,1115.0,2,1880,Average,Average,Good,Excellent,244000
+69,Below Average,845,2,360,845,845,1,1982,2006,4,0.0,0,565,Average,Average,Average,Average,129500
+70,Good,1718,2,427,832,885,2,1998,1998,7,40.0,1,0,Average,Average,Good,Good,185000
+71,Average,1086,2,490,1086,1086,1,1954,2003,6,104.0,0,320,Average,Average,Average,Good,144900
+72,Fair,1605,1,379,840,840,2,1915,1950,8,0.0,0,0,Average,Good,Fair,Good,107400
+73,Below Average,988,1,297,462,526,1,1973,1973,5,0.0,0,462,Average,Average,Good,Average,91000
+74,Below Average,952,1,283,952,952,1,1956,1956,4,0.0,0,228,Average,Average,Average,Excellent,135750
+75,Average,1285,1,240,672,1072,1,1948,2001,6,0.0,0,336,Average,Average,Average,Average,127000
+76,Below Average,1768,0,0,1768,1768,2,1968,1968,8,0.0,0,0,Average,Average,Average,Average,136500
+77,Average,1230,2,440,440,682,1,1910,1981,5,0.0,0,0,Average,Average,Average,Good,110000
+78,Above Average,2142,1,509,896,1182,2,1968,1968,8,576.0,1,448,Good,Average,Good,Average,193500
+79,Above Average,1337,2,405,1237,1337,2,1998,1998,5,443.0,0,1201,Average,Average,Excellent,Excellent,153500
+80,Very Good,1563,3,758,1563,1563,2,2007,2007,6,468.0,1,33,Good,Average,Good,Excellent,245000
+81,Average,1065,2,461,1065,1065,1,1960,1960,6,66.0,0,0,Average,Average,Average,Good,126500
+82,Good,1474,2,400,384,804,2,1995,1996,7,22.0,1,0,Average,Average,Good,Good,168500
+83,Very Good,2417,2,462,1288,1301,2,1991,1992,9,284.0,1,0,Good,Good,Good,Excellent,260000
+84,Above Average,1560,2,400,684,684,2,2005,2005,6,0.0,1,0,Good,Good,Good,Excellent,174000
+85,Above Average,1224,2,528,612,612,2,2009,2009,4,76.0,0,0,Good,Good,Good,Excellent,164500
+86,Fair,1526,0,0,1013,1013,1,1915,1982,6,0.0,0,0,Fair,Fair,Average,Average,85000
+87,Below Average,990,0,0,990,990,1,1994,1995,5,0.0,0,588,Average,Average,Good,Excellent,123600
+88,Below Average,1040,2,420,0,1040,1,1950,1950,4,0.0,0,0,Average,Average,None,Average,109900
+89,Average,1235,2,480,1235,1235,1,1961,1961,6,203.0,0,600,Average,Average,Average,Average,98600
+90,Average,964,2,432,876,964,1,1921,2006,5,0.0,0,713,Average,Average,Good,Excellent,163500
+91,Above Average,1786,2,684,824,905,2,1997,1997,7,0.0,0,648,Good,Average,Good,Excellent,204750
+92,Above Average,1470,2,420,680,680,2,1993,1993,6,68.0,1,310,Average,Excellent,Good,Good,185000
+93,Good,1588,2,472,1588,1588,2,1999,1999,6,183.0,0,1162,Good,Good,Good,Excellent,214000
+94,Below Average,960,1,432,960,960,1,1965,1965,6,48.0,0,520,Average,Average,Average,Average,94750
+95,Average,835,1,366,458,835,1,1920,1950,5,0.0,0,108,Average,Average,Average,Fair,83000
+96,Below Average,1225,0,0,950,1225,1,1959,1959,6,0.0,0,569,Average,Average,Average,Fair,128950
+97,Above Average,1610,2,480,1610,1610,2,1977,2001,6,28.0,2,1200,Good,Average,Average,Good,205000
+98,Above Average,1732,2,476,741,977,2,1985,1985,7,336.0,1,0,Good,Good,Good,Average,178000
+99,Average,1535,2,410,0,1535,2,1979,1979,8,0.0,0,0,Average,Average,None,Average,118964
+100,Good,1226,3,740,1226,1226,2,2009,2009,6,0.0,0,0,Good,Average,Good,Excellent,198900
+101,Good,1818,1,240,1040,1226,1,1931,1950,7,600.0,2,224,Average,Average,Average,Excellent,169500
+102,Very Good,1992,2,648,1053,1053,2,2003,2004,9,768.0,1,0,Good,Good,Excellent,Excellent,250000
+103,Below Average,1047,1,273,641,1047,1,1885,1995,6,0.0,0,0,Average,Average,Fair,Good,100000
+104,Average,789,1,250,789,789,1,1948,1950,5,0.0,0,104,Average,Average,Average,Excellent,115000
+105,Average,1517,0,0,793,997,2,1919,2005,7,0.0,0,0,Fair,Average,Average,Average,115000
+106,Above Average,1844,2,546,1844,1844,2,1977,1977,7,480.0,1,705,Average,Average,Good,Excellent,190000
+107,Above Average,1855,1,325,994,1216,2,1954,1972,7,0.0,0,444,Average,Average,Average,Good,136900
+108,Good,1430,2,400,384,774,2,2000,2000,7,0.0,1,250,Average,Average,Good,Excellent,180000
+109,Good,2696,3,792,1264,1282,2,2007,2007,10,220.0,1,984,Excellent,Good,Excellent,Excellent,383970
+110,Above Average,2320,1,180,1028,1436,2,1945,2002,9,0.0,1,774,Good,Average,Average,Excellent,259500
+111,Above Average,1458,2,440,729,729,2,1999,1999,5,1129.0,1,419,Average,Average,Good,Good,176000
+112,Average,1092,1,288,1092,1092,1,1962,1962,6,116.0,1,170,Average,Average,Average,Average,139000
+113,Average,1125,2,430,1125,1125,1,2006,2007,5,0.0,0,0,Average,Average,Good,Good,155000
+114,Good,3222,3,594,1673,1699,3,1990,1990,11,0.0,2,1470,Good,Average,Good,Good,320000
+115,Above Average,1456,2,390,728,728,2,2005,2006,8,0.0,1,0,Good,Good,Good,Excellent,163990
+116,Above Average,988,2,540,938,988,1,1969,1969,4,0.0,2,938,Average,Average,Average,Excellent,180000
+117,Below Average,1123,1,264,732,772,1,1939,1950,4,0.0,0,0,Average,Average,Average,Good,100000
+118,Above Average,1080,1,288,1080,1080,1,1958,1958,5,135.0,0,570,Average,Average,Average,Good,136000
+119,Above Average,1199,2,530,1199,1199,2,1993,1993,5,0.0,0,300,Good,Good,Good,Excellent,153900
+120,Above Average,1586,2,435,1362,1586,2,1979,1998,7,0.0,1,0,Average,Average,Good,Average,181000
+121,Above Average,754,0,0,520,520,1,1935,1982,5,0.0,0,490,Average,Average,Average,Good,84500
+122,Above Average,958,2,440,1078,958,2,1976,1976,5,0.0,1,120,Average,Average,Good,Average,128000
+123,Average,840,0,0,672,840,1,1930,1950,5,0.0,1,116,Average,Average,Average,Excellent,87000
+124,Above Average,1348,2,453,660,660,1,1966,1966,6,266.0,1,512,Average,Average,Average,Average,155000
+125,Average,1053,2,750,1008,1053,1,1958,1991,6,85.0,0,567,Excellent,Average,Average,Average,150000
+126,Good,2157,2,487,924,1216,2,1966,1966,8,309.0,2,445,Good,Average,Average,Excellent,226000
+127,Above Average,2054,2,390,992,1022,2,2000,2000,7,40.0,1,695,Good,Good,Good,Excellent,244000
+128,Average,1327,2,624,1063,1327,1,1959,2002,7,0.0,0,405,Good,Average,Average,Good,150750
+129,Very Good,1296,2,471,1267,1296,2,2001,2002,6,136.0,0,1005,Good,Good,Excellent,Excellent,220000
+130,Average,1721,2,440,1461,1721,2,1968,1993,7,0.0,1,570,Average,Average,Average,Good,180000
+131,Good,1682,2,530,1304,1682,2,1970,1970,7,288.0,1,0,Average,Average,Average,Good,174000
+132,Average,1214,1,318,1214,1214,2,1967,1967,5,196.0,1,695,Average,Average,Average,Average,143000
+133,Good,1959,3,766,1907,1959,3,1988,1989,9,70.0,0,0,Average,Average,Average,Good,171000
+134,Very Good,1852,3,660,1004,1004,2,1999,2000,7,320.0,2,668,Good,Good,Good,Excellent,230000
+135,Above Average,1764,2,470,928,928,2,1997,1997,7,0.0,0,821,Good,Average,Good,Excellent,231500
+136,Below Average,864,0,0,864,864,1,1971,1971,5,0.0,1,432,Average,Average,Average,Average,115000
+137,Good,1734,2,660,1734,1734,2,2005,2005,7,0.0,0,1300,Good,Good,Good,Excellent,260000
+138,Average,1385,2,720,910,910,2,1952,1952,6,0.0,0,507,Average,Average,Average,Fair,166000
+139,Good,1501,2,577,1490,1501,2,1999,1999,6,183.0,0,679,Good,Good,Good,Excellent,204000
+140,Average,1728,2,504,1728,1728,2,1963,1963,10,336.0,0,1332,Average,Average,Average,Average,125000
+141,Above Average,1709,2,380,970,970,2,2004,2006,7,50.0,0,0,Good,Good,Good,Excellent,130000
+142,Average,875,1,180,715,875,1,1931,1993,5,0.0,0,209,Average,Average,Average,Average,105000
+143,Good,2035,2,434,884,884,2,2001,2001,8,180.0,1,0,Good,Good,Good,Excellent,222500
+144,Good,1080,0,0,1080,1080,1,2004,2005,6,120.0,0,680,Good,Average,Good,Excellent,141000
+145,Average,1344,1,240,896,896,1,1936,1950,7,0.0,0,0,Average,Average,Good,Good,115000
+146,Average,969,2,440,969,969,1,1975,1975,5,0.0,0,716,Average,Average,Average,Average,122000
+147,Very Good,1710,3,866,1710,1710,2,2007,2008,6,436.0,1,1400,Good,Good,Excellent,Excellent,372402
+148,Above Average,1993,2,495,825,1097,2,1971,1971,8,252.0,1,416,Average,Average,Average,Good,190000
+149,Above Average,1252,2,564,1602,1252,1,1960,1975,4,0.0,1,429,Average,Average,Good,Good,235000
+150,Above Average,1200,1,312,1200,1200,1,1923,1950,7,0.0,0,0,Average,Average,Average,Average,125000
+151,Above Average,1096,0,0,572,572,1,1924,1950,5,0.0,0,0,Average,Average,Average,Fair,79000
+152,Average,1040,2,625,0,1040,1,1950,1950,5,0.0,0,0,Average,Average,None,Average,109500
+153,Very Good,1968,3,680,774,774,2,2009,2010,8,84.0,1,0,Excellent,Good,Excellent,Excellent,269500
+154,Good,1947,2,678,991,991,2,2004,2005,8,0.0,1,222,Good,Good,Good,Excellent,254900
+155,Good,2462,2,576,1392,1392,2,2005,2006,9,456.0,1,57,Good,Good,Good,Excellent,320000
+156,Above Average,1232,2,516,1232,1232,2,1984,1984,6,0.0,0,660,Average,Average,Good,Average,162500
+157,Excellent,2668,3,726,1572,1572,2,2003,2004,10,664.0,2,1016,Excellent,Good,Excellent,Excellent,412500
+158,Good,1541,2,532,1541,1541,2,2005,2005,7,226.0,1,1201,Good,Good,Good,Excellent,220000
+159,Below Average,882,0,0,882,882,1,1956,1956,4,0.0,0,0,Average,Average,Average,Excellent,103200
+160,Above Average,1616,1,216,1149,1149,2,1926,2004,5,0.0,0,370,Good,Average,Average,Good,152000
+161,Average,1355,0,0,644,808,2,1940,1999,6,0.0,0,351,Average,Average,Average,Good,127500
+162,Very Good,2161,3,789,1582,1610,1,2007,2007,8,300.0,1,1288,Excellent,Good,Excellent,Excellent,325624
+163,Good,1720,2,440,840,840,2,2004,2004,7,0.0,1,0,Good,Good,Good,Excellent,183500
+164,Very Good,1707,2,511,1686,1707,2,1981,1981,6,653.0,1,0,Average,Good,Good,Average,228000
+165,Average,1382,2,660,720,854,1,1941,1950,7,0.0,0,360,Average,Average,Average,Average,128500
+166,Above Average,1656,2,528,1080,1656,1,1960,1960,7,112.0,2,639,Average,Average,Average,Fair,215000
+167,Good,1767,2,504,1064,1064,2,1987,1987,5,0.0,1,495,Good,Good,Good,Good,239000
+168,Above Average,1362,2,504,1362,1362,1,1961,1961,6,491.0,1,288,Average,Average,Average,Average,163000
+169,Above Average,1651,2,616,1606,1651,2,1986,1986,7,132.0,1,1398,Average,Average,Good,Average,184000
+170,Above Average,2158,2,576,1202,2158,2,1950,2001,7,0.0,1,477,Good,Average,Average,Average,243000
+171,Above Average,2060,2,521,1151,1164,2,1988,1989,8,268.0,1,831,Average,Good,Good,Average,211000
+172,Average,1920,2,451,1052,1252,2,1958,1958,8,0.0,1,57,Good,Good,Average,Excellent,172500
+173,Average,968,2,480,968,968,1,1923,2006,5,0.0,0,0,Average,Good,Average,Average,100000
+174,Above Average,1525,2,440,756,769,2,2000,2000,5,456.0,1,436,Good,Good,Good,Excellent,177000
+175,Good,1802,1,216,793,901,1,1920,1950,9,0.0,1,352,Average,Average,Fair,Good,200100
+176,Average,1340,1,252,0,1340,1,1957,2006,7,98.0,1,0,Average,Average,None,Excellent,120000
+177,Good,2082,2,484,1362,1362,2,2003,2003,6,0.0,0,0,Good,Average,Good,Excellent,200000
+178,Average,1252,2,576,504,936,1,1908,1991,5,0.0,0,0,Average,Average,Fair,Good,127000
+179,Good,1217,2,497,1188,1217,2,1990,1991,6,0.0,0,611,Good,Average,Good,Excellent,173000
+180,Average,1656,1,180,660,808,2,1916,1987,8,0.0,0,0,Average,Average,Fair,Excellent,135000
+181,Average,1224,2,528,1086,1224,0,1979,1979,6,275.0,2,1086,Average,Average,Good,Average,153337
+182,Very Good,1593,2,682,1593,1593,1,2001,2002,5,0.0,1,1153,Excellent,Good,Excellent,Excellent,286000
+183,Very Good,2727,2,440,853,1549,2,1932,1994,10,0.0,2,297,Good,Good,Good,Average,315000
+184,Good,1479,2,484,725,725,1,1972,2004,7,138.0,0,626,Good,Average,Average,Good,184000
+185,Good,1431,2,666,1431,1431,2,1999,1999,6,0.0,0,560,Good,Good,Good,Excellent,192000
+186,Good,1709,2,380,970,970,2,2004,2004,7,50.0,0,0,Good,Good,Good,Excellent,130000
+187,Average,864,1,352,864,864,1,1972,1972,5,0.0,0,390,Average,Average,Average,Average,127000
+188,Above Average,1456,2,440,855,855,2,1976,1976,7,0.0,1,566,Average,Average,Good,Average,148500
+189,Good,1726,3,786,1726,1726,2,2007,2007,8,205.0,1,1126,Excellent,Excellent,Excellent,Excellent,311872
+190,Very Good,1713,3,856,1713,1713,2,2004,2005,7,262.0,1,1088,Excellent,Good,Excellent,Excellent,274900
+191,Below Average,1121,2,440,1121,1121,2,2003,2004,5,0.0,0,0,Average,Average,Good,Excellent,140000
+192,Above Average,1279,2,473,1196,1279,2,1977,1977,6,0.0,2,641,Average,Average,Average,Average,171500
+193,Above Average,1310,1,398,617,865,2,1924,1950,6,0.0,0,617,Average,Average,Fair,Good,112000
+194,Above Average,848,2,420,848,848,1,2004,2004,3,205.0,1,662,Good,Good,Good,Excellent,149000
+195,Average,1284,1,240,720,720,1,1947,1950,5,0.0,0,312,Average,Average,Average,Average,110000
+196,Good,1442,2,500,1424,1442,2,1990,1990,5,0.0,0,0,Average,Average,Good,Excellent,180500
+197,Average,1696,1,349,1140,1696,1,1962,1962,8,0.0,1,0,Average,Average,Average,Average,143900
+198,Below Average,1100,1,312,1100,1100,1,1960,1960,6,0.0,1,419,Average,Average,Average,Average,141000
+199,Good,2062,2,454,1157,1180,2,1988,1989,7,128.0,1,1065,Average,Good,Good,Excellent,277000
+200,Above Average,1092,2,504,1092,1092,1,1964,1964,6,260.0,0,787,Average,Average,Good,Excellent,145000
+201,Average,864,0,0,864,864,1,1925,1950,5,0.0,0,468,Average,Average,Average,Average,98000
+202,Above Average,1212,2,460,1212,1212,2,2009,2009,6,0.0,0,36,Good,Average,Good,Excellent,186000
+203,Good,1852,2,644,900,932,2,2009,2009,7,0.0,1,822,Good,Average,Good,Excellent,252678
+204,Average,990,2,576,990,990,1,1995,1995,5,0.0,0,716,Average,Average,Good,Excellent,156000
+205,Above Average,1392,1,299,689,689,1,1977,1977,6,153.0,0,378,Average,Average,Good,Excellent,161750
+206,Average,1236,1,447,1070,1236,1,1957,1996,6,64.0,1,360,Good,Average,Average,Average,134450
+207,Good,1436,2,484,1436,1436,2,2004,2004,8,266.0,0,946,Good,Good,Good,Excellent,210000
+208,Below Average,1328,1,210,686,810,1,1925,1950,8,0.0,0,0,Average,Average,Average,Fair,107000
+209,Good,1954,2,431,798,1137,1,1939,2006,8,312.0,2,341,Good,Good,Average,Excellent,311500
+210,Good,1248,2,438,1248,1248,2,2005,2006,5,16.0,0,16,Good,Good,Good,Excellent,167240
+211,Good,1498,2,675,1498,1498,2,2006,2006,5,0.0,0,0,Good,Good,Good,Excellent,204900
+212,Above Average,2267,2,390,1010,1010,2,2002,2002,8,0.0,1,0,Good,Good,Good,Excellent,200000
+213,Above Average,1552,2,434,713,811,2,1975,1975,6,0.0,1,550,Average,Average,Good,Average,179900
+214,Below Average,864,2,576,864,864,1,1971,1971,4,0.0,0,524,Average,Average,Average,Good,97000
+215,Average,1302,1,280,630,630,2,1971,1971,6,142.0,0,0,Average,Average,Average,Average,112000
+216,Good,2520,3,721,1203,1214,2,1995,1995,9,290.0,1,565,Good,Good,Good,Excellent,290000
+217,Above Average,987,1,280,483,483,1,1970,1970,5,127.0,0,321,Average,Average,Average,Average,106000
+218,Average,912,1,336,912,912,1,1967,1967,5,0.0,1,842,Average,Average,Average,Average,125000
+219,Good,1555,2,430,1373,1555,2,2005,2006,7,16.0,1,16,Good,Good,Good,Excellent,192500
+220,Above Average,1194,1,312,1194,1194,1,1959,1959,6,220.0,0,0,Average,Average,Average,Average,148000
+221,Very Good,2794,3,810,1462,1490,2,1995,1996,9,506.0,1,689,Excellent,Good,Good,Excellent,403000
+222,Above Average,987,1,288,483,483,1,1972,1972,5,297.0,1,0,Average,Average,Average,Average,94500
+223,Average,894,1,308,894,894,1,1976,1976,5,0.0,0,182,Average,Average,Average,Average,128200
+224,Above Average,1960,2,440,860,860,2,2002,2002,8,0.0,2,625,Good,Good,Good,Excellent,216500
+225,Above Average,987,1,264,483,483,1,1971,1971,5,604.0,0,358,Average,Average,Average,Average,89500
+226,Good,1414,2,494,1414,1414,2,2004,2004,6,98.0,0,24,Good,Good,Good,Excellent,185500
+227,Good,1744,2,457,996,1014,2,1993,2003,7,0.0,0,402,Good,Good,Good,Excellent,194500
+228,Very Good,1694,3,818,1694,1694,2,2007,2007,7,254.0,0,0,Good,Excellent,Excellent,Excellent,318000
+229,Above Average,1487,1,220,735,798,1,1945,1950,7,0.0,1,94,Average,Average,Average,Average,113000
+230,Very Good,1566,2,750,1566,1566,2,2008,2008,7,36.0,0,1078,Good,Good,Good,Excellent,262500
+231,Average,866,0,0,686,866,1,1945,1997,4,0.0,0,329,Good,Average,Average,Good,110500
+232,Average,1440,1,352,540,889,1,1900,1950,6,0.0,0,0,Average,Average,Average,Good,79000
+233,Above Average,1217,1,288,626,626,1,1980,1980,6,0.0,1,0,Average,Average,Good,Average,120000
+234,Good,2110,2,463,948,1222,2,1994,2002,8,0.0,2,695,Good,Good,Good,Excellent,205000
+235,Good,1872,2,604,1845,1872,2,1988,1988,6,102.0,1,929,Average,Average,Good,Good,241500
+236,Above Average,1375,2,451,1367,1375,1,1954,1954,5,0.0,1,0,Average,Average,Average,Excellent,140000
+237,Good,1668,2,500,840,840,2,2003,2003,8,101.0,0,0,Good,Good,Good,Excellent,180000
+238,Above Average,2144,2,389,1444,1444,2,1958,2006,7,472.0,2,697,Good,Good,Good,Good,277000
+239,Fair,1306,0,0,728,1306,1,1940,1966,6,0.0,0,0,Fair,Average,Average,Excellent,76500
+240,Very Good,1625,2,538,1573,1625,2,2006,2007,5,481.0,1,1573,Good,Good,Good,Excellent,235000
+241,Above Average,1640,2,520,798,798,2,2004,2004,6,0.0,0,0,Good,Good,Good,Excellent,173000
+242,Above Average,1302,1,309,1302,1302,2,1964,1991,7,108.0,0,270,Good,Average,Good,Excellent,158000
+243,Average,1314,1,294,1314,1314,1,1957,1957,5,0.0,0,922,Average,Average,Average,Average,145000
+244,Good,2291,2,429,975,1005,2,1999,1999,8,302.0,1,0,Good,Good,Good,Excellent,230000
+245,Above Average,1728,2,673,864,864,2,2003,2003,7,0.0,0,503,Good,Good,Good,Excellent,207500
+246,Good,1604,2,660,1604,1604,2,2006,2006,8,180.0,1,1334,Good,Good,Good,Excellent,220000
+247,Good,1792,2,564,963,963,2,2001,2001,7,172.0,1,361,Good,Good,Good,Excellent,231500
+248,Average,882,1,308,0,882,1,1956,1956,4,0.0,0,0,Average,Average,None,Good,97000
+249,Above Average,1382,2,884,1362,1382,1,1962,1962,6,399.0,1,672,Average,Average,Average,Average,176000
+250,Very Good,2574,3,868,1482,1482,2,2007,2007,10,270.0,1,0,Excellent,Good,Excellent,Excellent,276000
+251,Above Average,1212,2,492,506,1212,1,1977,1995,6,46.0,1,506,Average,Average,Good,Average,151000
+252,Average,1316,2,484,926,926,1,1929,2001,6,0.0,0,234,Average,Average,Average,Average,130000
+253,Average,764,2,504,680,764,1,1925,2004,4,0.0,0,0,Average,Average,Fair,Good,73000
+254,Above Average,1422,2,576,1422,1422,2,1981,1981,7,210.0,1,588,Good,Average,Good,Average,175500
+255,Above Average,1511,2,413,802,802,2,1997,1997,8,0.0,1,714,Average,Average,Good,Good,185000
+256,Average,2192,1,240,720,1052,2,1939,1997,8,0.0,1,378,Good,Average,Average,Excellent,179500
+257,Average,778,1,924,740,778,1,1940,1955,4,0.0,1,403,Average,Average,Average,Excellent,120500
+258,Above Average,1113,1,504,1143,1113,1,1976,1976,6,174.0,1,751,Average,Average,Average,Average,148000
+259,Very Good,1939,3,1053,1095,1095,2,2006,2006,8,0.0,1,0,Good,Good,Good,Good,266000
+260,Good,1363,2,439,1385,1363,1,1954,2005,5,0.0,2,226,Average,Average,Good,Excellent,241500
+261,Very Good,2270,3,671,1152,1164,2,1999,2007,9,348.0,1,524,Good,Good,Good,Excellent,290000
+262,Above Average,1632,1,338,1240,1632,2,1958,1988,6,183.0,1,620,Average,Average,Average,Good,139000
+263,Average,816,1,264,816,816,1,1982,1982,5,0.0,0,546,Average,Average,Average,Average,124500
+264,Good,1548,2,672,952,952,2,1925,2007,5,0.0,0,0,Excellent,Good,Average,Good,205000
+265,Good,1560,2,573,1560,1560,2,2003,2003,7,0.0,0,0,Good,Good,Excellent,Excellent,201000
+266,Below Average,864,2,400,864,864,1,1951,1951,4,0.0,0,120,Average,Average,Average,Excellent,141000
+267,Excellent,2121,3,732,2121,2121,2,2006,2007,8,315.0,1,0,Excellent,Excellent,Excellent,Excellent,415298
+268,Good,2022,2,505,1160,1156,2,1977,1977,8,299.0,1,392,Average,Average,Good,Excellent,192000
+269,Good,1982,2,575,807,1175,2,1989,1989,7,340.0,1,421,Good,Good,Good,Good,228500
+270,Above Average,1262,2,572,1262,1262,2,2006,2006,5,68.0,0,905,Good,Good,Good,Good,185000
+271,Good,1314,2,626,1314,1314,2,2007,2008,6,166.0,1,904,Good,Good,Good,Excellent,207500
+272,Very Good,1468,3,898,1468,1468,2,2008,2009,6,72.0,1,0,Good,Good,Good,Excellent,244600
+273,Above Average,1575,2,529,1575,1575,2,1992,1992,5,0.0,0,430,Good,Good,Good,Good,179200
+274,Good,1250,2,528,625,625,2,2006,2007,5,0.0,0,0,Good,Good,Good,Excellent,164700
+275,Above Average,1734,2,440,912,1085,1,1962,1981,7,0.0,1,600,Good,Average,Average,Average,159000
+276,Below Average,858,0,0,858,858,1,1971,1971,5,0.0,0,614,Average,Average,Average,Average,88000
+277,Average,900,1,280,882,900,1,1967,1967,5,31.0,0,450,Average,Average,Average,Average,122000
+278,Above Average,1396,1,384,698,698,1,1915,2003,7,0.0,0,0,Average,Average,Average,Excellent,153575
+279,Very Good,1919,2,685,1079,1079,2,2006,2006,8,0.0,1,0,Good,Good,Good,Excellent,233230
+280,Average,1716,0,0,780,936,2,1912,2000,9,0.0,0,210,Fair,Average,Average,Excellent,135900
+281,Average,1716,1,281,768,1148,1,1949,2008,8,0.0,1,292,Average,Average,Average,Good,131000
+282,Good,2263,2,539,795,1468,2,1977,1994,9,34.0,1,795,Good,Average,Average,Fair,235000
+283,Above Average,1644,2,418,1416,1644,1,1953,1953,7,238.0,2,1285,Average,Average,Average,Average,167000
+284,Above Average,1003,2,588,1003,1003,1,1984,1984,6,0.0,0,819,Average,Average,Average,Average,142500
+285,Average,1558,1,282,910,910,1,1950,1950,6,0.0,0,420,Average,Average,Average,Average,152000
+286,Good,1950,2,576,975,975,2,1997,1998,7,1600.0,1,649,Good,Good,Good,Excellent,239000
+287,Above Average,1743,2,539,702,1041,1,1968,1968,7,365.0,1,384,Average,Good,Average,Good,175000
+288,Above Average,1152,1,300,1092,1152,1,1950,2004,6,0.0,1,0,Good,Average,Average,Excellent,158500
+289,Average,1336,1,375,1165,1336,1,1953,1953,5,56.0,2,841,Average,Average,Average,Average,157000
+290,Very Good,2452,2,683,1028,1210,2,1998,1999,9,0.0,1,281,Good,Good,Good,Excellent,267000
+291,Good,1541,3,843,1541,1541,2,2001,2002,6,150.0,1,0,Good,Good,Good,Excellent,205000
+292,Average,894,2,552,894,894,1,1972,1972,5,0.0,0,894,Average,Average,Average,Average,149900
+293,Very Good,2000,3,888,2000,2000,2,2004,2005,8,246.0,0,1464,Good,Good,Good,Excellent,305900
+294,Good,2243,3,746,700,1122,2,1990,1991,8,246.0,1,700,Good,Good,Good,Good,225000
+295,Above Average,1406,0,0,319,1035,1,1920,1950,6,0.0,0,0,Fair,Average,Average,Average,89500
+296,Below Average,861,2,539,861,861,1,1940,1950,4,0.0,0,262,Average,Average,Average,Excellent,82500
+297,Excellent,1944,3,708,1896,1944,2,2003,2004,8,0.0,3,1274,Excellent,Good,Excellent,Excellent,360000
+298,Above Average,1501,2,420,697,697,2,1993,1994,6,112.0,1,518,Good,Average,Good,Good,165600
+299,Above Average,972,1,240,972,972,1,1948,2002,5,0.0,1,680,Average,Average,Average,Excellent,132000
+300,Average,1118,2,410,793,793,1,1939,1950,5,0.0,1,507,Average,Average,Good,Average,119900
+301,Good,2036,2,513,2136,2036,2,1965,1965,8,0.0,2,1236,Average,Average,Good,Average,375000
+302,Good,1641,2,546,728,832,1,1925,1990,6,0.0,1,16,Excellent,Average,Average,Excellent,178000
+303,Good,1432,2,432,716,716,2,2004,2005,6,0.0,1,425,Good,Good,Good,Excellent,188500
+304,Good,2353,2,484,845,1153,2,1980,1980,10,278.0,1,692,Excellent,Good,Good,Average,260000
+305,Very Good,1959,3,1025,1088,1088,2,2006,2006,8,0.0,1,0,Good,Good,Good,Excellent,270000
+306,Good,2646,3,656,1347,1372,2,1993,1993,9,256.0,1,987,Good,Good,Good,Excellent,260000
+307,Good,1472,2,588,1372,1472,2,1980,1980,6,225.0,2,1036,Average,Average,Good,Average,187500
+308,Excellent,2596,3,840,1249,1249,3,2006,2006,9,370.0,0,0,Good,Average,Excellent,Excellent,342643
+309,Very Good,2468,3,872,1136,1136,2,2004,2004,10,388.0,1,970,Good,Good,Excellent,Excellent,354000
+310,Good,2730,2,576,1502,1553,2,1986,1987,8,172.0,1,28,Good,Good,Average,Excellent,301000
+311,Fair,1163,1,220,1162,1163,1,1955,2005,6,0.0,0,256,Average,Average,Average,Excellent,126175
+312,Good,2978,2,564,710,1898,2,1967,2007,11,300.0,1,0,Good,Good,Good,Excellent,242000
+313,Average,803,2,360,720,803,1,1941,1950,5,0.0,0,116,Average,Average,Average,Poor,87000
+314,Very Good,1719,2,473,1719,1719,1,1993,1993,6,0.0,2,1619,Good,Good,Good,Excellent,324000
+315,Above Average,1383,1,292,1383,1383,1,1960,1960,7,175.0,0,565,Average,Average,Average,Average,145250
+316,Above Average,2134,2,441,844,1445,2,1916,1994,10,0.0,0,0,Good,Average,Average,Good,214500
+317,Average,1192,1,189,596,596,1,1920,1950,6,0.0,0,0,Average,Average,Average,Average,78000
+318,Average,1056,1,308,1056,1056,1,1958,1992,6,0.0,0,846,Average,Average,Average,Fair,139000
+319,Very Good,1629,3,880,3206,1629,2,2003,2004,7,296.0,1,1124,Good,Good,Good,Excellent,284000
+320,Good,1358,2,484,1358,1358,2,2004,2004,6,146.0,1,720,Good,Good,Good,Excellent,207000
+321,Above Average,1638,2,472,943,943,2,1998,1998,7,0.0,2,828,Average,Average,Good,Good,192000
+322,Excellent,1922,3,676,1922,1922,2,2005,2006,8,200.0,1,1249,Good,Good,Excellent,Excellent,377426
+323,Good,1536,2,532,1536,1536,2,2002,2003,7,113.0,0,810,Good,Good,Good,Excellent,214000
+324,Good,1621,2,440,1208,1621,2,1984,1998,8,0.0,0,213,Good,Good,Good,Excellent,202500
+325,Above Average,1215,1,297,1215,1215,1,1958,1998,6,176.0,0,585,Average,Average,Average,Average,155000
+326,Very Good,1908,2,431,967,993,2,2002,2002,9,0.0,0,0,Good,Good,Good,Excellent,202900
+327,Below Average,841,1,294,721,841,1,1950,1950,4,0.0,0,0,Average,Fair,Average,Good,82000
+328,Fair,1040,2,400,0,1040,2,1949,1950,6,340.0,0,0,Average,Average,None,Fair,87500
+329,Excellent,1684,2,564,1684,1684,2,2005,2005,6,616.0,1,28,Excellent,Excellent,Excellent,Excellent,266000
+330,Average,1112,1,336,536,536,1,1976,1976,4,0.0,0,129,Average,Average,Good,Average,85000
+331,Above Average,1577,1,312,972,972,1,1939,1950,6,0.0,1,0,Fair,Average,Average,Good,140200
+332,Above Average,958,1,301,958,958,1,1960,1998,5,0.0,0,498,Average,Average,Average,Average,151500
+333,Above Average,1478,2,498,1478,1478,2,1960,1960,6,30.0,2,1270,Average,Average,Average,Excellent,157500
+334,Good,1626,2,474,764,764,2,2003,2004,6,106.0,0,573,Good,Good,Good,Excellent,154000
+335,Excellent,2728,3,706,1848,1848,2,2005,2006,10,870.0,2,1410,Excellent,Excellent,Excellent,Excellent,437154
+336,Excellent,1869,2,617,1869,1869,2,2007,2007,6,362.0,1,0,Excellent,Excellent,Excellent,Excellent,318061
+337,Good,1453,2,445,1453,1453,1,1986,1986,6,0.0,1,1082,Good,Average,Good,Good,190000
+338,Average,1111,1,200,616,616,1,1941,1950,5,0.0,0,236,Average,Average,Average,Average,95000
+339,Above Average,720,2,484,624,720,1,1928,2003,5,0.0,0,0,Average,Average,Average,Good,105900
+340,Above Average,1595,1,240,940,1192,1,1940,2000,6,0.0,2,388,Average,Average,Average,Excellent,140000
+341,Above Average,1200,2,521,1200,1200,2,1995,1995,6,0.0,0,334,Good,Good,Good,Excellent,177500
+342,Above Average,1167,2,400,1158,1167,2,1992,1992,6,106.0,0,560,Good,Average,Good,Good,173000
+343,Average,1142,2,528,1142,1142,1,1976,1976,6,0.0,1,874,Average,Average,Good,Average,134000
+344,Average,1352,1,288,1062,1352,1,1958,1958,6,120.0,0,300,Good,Average,Average,Excellent,130000
+345,Very Good,1924,2,592,1086,1086,2,1998,1998,7,530.0,1,956,Good,Good,Good,Excellent,280000
+346,Above Average,912,2,470,888,912,1,1978,1978,5,0.0,1,773,Average,Average,Good,Excellent,156000
+347,Average,1505,1,240,883,988,1,1940,1982,8,0.0,0,399,Average,Average,Average,Good,145000
+348,Good,1922,2,672,0,495,3,2003,2003,7,500.0,1,0,Good,Good,None,Excellent,198500
+349,Above Average,987,1,264,483,483,1,1972,2007,5,510.0,0,162,Good,Average,Average,Good,118000
+350,Above Average,1574,2,566,796,790,2,1976,1976,6,120.0,1,712,Average,Average,Good,Average,190000
+351,Average,1344,1,468,672,672,1,1920,1997,6,0.0,0,456,Average,Average,Average,Good,147000
+352,Above Average,1394,2,514,1394,1394,1,1963,1963,6,247.0,2,609,Average,Average,Good,Good,159000
+353,Above Average,1431,1,296,1099,1431,1,1962,1962,6,305.0,1,371,Average,Average,Good,Good,165000
+354,Average,1268,1,244,1268,1268,1,1954,1954,7,200.0,1,540,Average,Average,Average,Good,132000
+355,Average,1287,2,576,1063,1287,1,1959,2006,7,0.0,1,72,Good,Average,Average,Excellent,162000
+356,Above Average,1664,2,460,953,953,2,2000,2000,7,0.0,1,0,Average,Average,Good,Excellent,172400
+357,Below Average,1588,2,680,0,1120,2,1959,1959,7,0.0,1,0,Average,Average,None,Average,134432
+358,Above Average,752,1,264,744,752,1,1984,1984,4,0.0,0,623,Average,Average,Good,Average,125000
+359,Average,1319,1,270,608,1319,1,1953,1953,5,0.0,0,428,Average,Average,Average,Average,123000
+360,Good,1928,2,434,847,847,2,2003,2004,8,0.0,1,0,Good,Good,Good,Excellent,219500
+361,Very Poor,904,0,0,683,904,0,1922,1950,4,0.0,0,350,Fair,Fair,Fair,Good,61000
+362,Average,914,2,576,870,914,1,1996,1996,5,0.0,0,298,Average,Good,Good,Excellent,148000
+363,Very Good,2466,2,610,1580,1580,3,2004,2005,8,0.0,1,0,Good,Good,Good,Excellent,340000
+364,Excellent,1856,3,834,1856,1856,1,2010,2010,8,350.0,1,1445,Excellent,Good,Excellent,Excellent,394432
+365,Above Average,1800,2,463,982,1007,2,2000,2000,7,16.0,1,0,Average,Average,Good,Excellent,179000
+366,Average,1691,1,308,1026,1026,2,1924,1950,6,0.0,1,218,Good,Average,Average,Average,127000
+367,Good,1301,2,572,1293,1301,2,2006,2006,5,0.0,1,0,Good,Good,Good,Excellent,187750
+368,Good,1797,2,639,939,939,2,2006,2006,8,0.0,0,0,Good,Good,Good,Excellent,213500
+369,Above Average,784,2,360,784,784,1,1928,1950,5,0.0,0,0,Average,Average,Fair,Average,76000
+370,Above Average,1953,2,501,1580,1079,2,1992,1992,9,0.0,2,985,Good,Good,Good,Excellent,240000
+371,Very Good,1269,2,430,1256,1269,2,2004,2005,6,16.0,1,24,Good,Good,Good,Excellent,192000
+372,Average,1184,0,0,658,658,1,1910,1996,8,0.0,0,0,Average,Average,Average,Average,81000
+373,Above Average,1125,1,352,1041,1125,1,1976,1976,6,255.0,1,631,Average,Average,Average,Excellent,125000
+374,Good,1479,2,577,1468,1479,2,1999,2000,6,125.0,0,0,Good,Good,Good,Excellent,191000
+375,very Excellent,2332,3,846,1682,1742,2,2007,2008,9,272.0,1,1280,Excellent,Excellent,Excellent,Excellent,426000
+376,Average,1367,1,384,861,961,1,1900,1950,7,0.0,0,241,Average,Average,Average,Excellent,119000
+377,Above Average,1961,2,560,804,804,2,2001,2002,7,0.0,1,690,Good,Average,Excellent,Excellent,215000
+378,Average,882,1,294,0,882,1,1959,1959,5,0.0,0,0,Average,Average,None,Average,106500
+379,Below Average,788,0,0,788,788,1,1941,1950,4,0.0,2,266,Average,Average,Average,Average,100000
+380,Average,1034,1,240,735,735,1,1940,1950,5,0.0,0,0,Average,Average,Average,Good,109000
+381,Average,1144,1,596,1144,1144,1,1956,1956,6,0.0,0,739,Average,Average,Average,Average,129000
+382,Average,894,2,600,894,894,1,1972,1972,6,0.0,0,777,Average,Average,Average,Average,123000
+383,Average,1812,1,264,864,876,2,1962,1962,8,288.0,1,540,Average,Average,Average,Average,169500
+384,Average,1077,1,338,961,1077,1,1920,1950,6,0.0,0,0,Average,Average,Fair,Good,67000
+385,Good,1550,2,438,1092,1112,2,2006,2007,7,100.0,0,812,Good,Good,Good,Excellent,241000
+386,Very Good,1288,2,500,1260,1288,1,1996,1996,4,0.0,2,786,Excellent,Good,Good,Excellent,245500
+387,Good,1310,2,400,1310,1310,2,2005,2005,6,0.0,1,24,Good,Good,Good,Excellent,164990
+388,Average,672,1,240,672,672,1,1940,1997,4,0.0,0,0,Average,Average,Average,Excellent,108000
+389,Very Good,2263,2,420,1141,1165,2,1998,1998,10,650.0,1,0,Good,Good,Good,Good,258000
+390,Above Average,1572,2,373,806,806,2,1995,1996,7,0.0,1,0,Average,Average,Good,Good,168000
+391,Below Average,1620,2,490,1281,1620,2,1976,1993,8,0.0,1,1116,Average,Average,Average,Excellent,150000
+392,Above Average,1639,1,240,1064,1166,1,1936,1950,6,0.0,0,0,Average,Average,Average,Excellent,115000
+393,Above Average,1680,1,308,840,840,2,1915,1976,8,0.0,0,0,Average,Average,Good,Excellent,177000
+394,Good,2172,3,947,1063,1071,2,2006,2006,9,350.0,1,0,Good,Good,Excellent,Excellent,280000
+395,Very Good,2078,3,836,1034,1050,2,2007,2008,8,100.0,1,789,Excellent,Good,Excellent,Excellent,339750
+396,Average,1276,1,350,1276,1276,1,1958,1958,5,0.0,0,0,Average,Average,Average,Average,60000
+397,Average,1056,2,572,1056,1056,1,1955,1955,5,0.0,0,1056,Average,Average,Average,Average,145000
+398,Good,1478,2,484,1470,1478,2,2009,2009,7,432.0,1,578,Good,Excellent,Excellent,Excellent,222000
+399,Average,1028,2,360,1008,1028,1,1927,1950,5,0.0,1,0,Average,Average,Average,Good,115000
+400,Good,2097,3,678,1080,1080,2,1993,1993,9,0.0,1,50,Good,Good,Good,Excellent,228000
+401,Good,1340,2,396,1340,1340,2,2007,2007,6,0.0,0,24,Good,Good,Good,Excellent,181134
+402,Above Average,1400,2,440,672,672,1,1978,1978,6,203.0,1,209,Average,Average,Average,Average,149500
+403,Above Average,2624,3,864,1370,1370,2,1918,1950,10,0.0,1,1128,Average,Average,Good,Average,239000
+404,Average,1134,1,240,756,756,1,1940,1950,7,0.0,0,312,Average,Average,Average,Fair,126000
+405,Average,1056,1,304,1056,1056,1,1968,1968,6,0.0,1,775,Average,Average,Average,Excellent,142000
+406,Good,1344,4,784,1344,1344,2,1997,1998,8,200.0,0,1309,Average,Average,Good,Excellent,206300
+407,Above Average,1602,2,529,1602,1602,2,1977,2000,8,126.0,1,1246,Good,Good,Good,Good,215000
+408,Average,988,2,520,988,988,1,1954,1954,4,0.0,0,0,Average,Average,Average,Excellent,113000
+409,Very Good,2630,3,696,1470,1470,2,1998,1998,8,473.0,1,986,Good,Good,Good,Good,315000
+410,Above Average,1196,1,297,1196,1196,1,1956,1956,6,74.0,1,616,Average,Average,Good,Good,139000
+411,Good,1389,1,240,651,707,1,1946,1992,6,0.0,2,0,Average,Average,Average,Good,135000
+412,Good,1644,2,569,1518,1644,2,1989,1989,5,145.0,1,1518,Good,Good,Good,Good,275000
+413,Below Average,907,1,352,907,907,1,1957,1957,5,0.0,0,288,Average,Average,Average,Excellent,109008
+414,Good,1208,2,628,1208,1208,2,2007,2007,6,108.0,0,664,Good,Good,Good,Excellent,195400
+415,Above Average,1412,2,576,1392,1412,2,1988,1988,6,0.0,1,1005,Good,Average,Good,Average,175000
+416,Above Average,987,1,264,483,483,1,1971,1971,4,232.0,0,387,Average,Average,Average,Average,85400
+417,Above Average,1198,0,0,901,1088,1,1920,1998,7,0.0,0,0,Average,Average,Average,Good,79900
+418,Average,1365,2,440,765,765,1,1971,1971,6,376.0,0,471,Average,Average,Average,Excellent,122500
+419,Above Average,1604,2,470,926,926,2,1997,1998,7,0.0,1,0,Average,Average,Good,Excellent,181000
+420,Below Average,630,0,0,630,630,1,1972,1972,3,0.0,0,495,Average,Average,Good,Good,81000
+421,Good,1661,2,550,799,827,2,1996,1996,6,0.0,1,385,Good,Good,Good,Excellent,212000
+422,Above Average,1118,2,440,648,734,1,1920,1950,6,0.0,0,0,Average,Average,Fair,Average,116000
+423,Above Average,904,1,180,884,904,1,1926,2004,4,0.0,0,0,Average,Good,Average,Good,119000
+424,Average,694,1,352,440,694,1,1913,2002,4,0.0,1,365,Good,Average,Average,Average,90350
+425,Above Average,1196,2,528,684,684,1,1920,2000,7,0.0,0,0,Good,Average,Average,Good,110000
+426,Below Average,1440,0,0,1440,1440,2,1955,1955,8,270.0,0,133,Fair,Average,Average,Average,118000
+427,Average,1573,2,360,1078,1128,2,1930,1992,8,0.0,1,0,Average,Average,Average,Average,162900
+428,Good,1258,3,648,1258,1258,2,2006,2007,6,72.0,1,0,Good,Good,Excellent,Excellent,172500
+429,Good,1908,2,493,915,933,2,1994,1995,8,0.0,1,642,Good,Good,Good,Excellent,210000
+430,Above Average,1689,2,480,1436,1689,1,1956,1956,7,0.0,1,0,Average,Average,Average,Fair,127500
+431,Above Average,1888,2,578,1517,1888,2,1966,2002,6,0.0,1,247,Good,Good,Average,Excellent,190000
+432,Good,1886,2,431,930,956,2,1998,1999,10,0.0,1,0,Good,Good,Good,Good,199900
+433,Above Average,1376,1,198,780,780,2,1937,1950,7,0.0,1,0,Average,Average,Average,Average,119500
+434,Fair,1183,1,308,649,679,1,1948,2002,6,0.0,0,331,Average,Average,Average,Excellent,120000
+435,Above Average,813,1,270,813,813,1,1930,2005,5,0.0,0,0,Good,Average,Average,Excellent,110000
+436,Good,1533,2,576,1533,1533,2,1975,1975,5,0.0,2,655,Good,Average,Good,Average,280000
+437,Above Average,1756,2,422,872,888,2,1996,1997,7,42.0,0,742,Average,Good,Excellent,Excellent,204000
+438,Very Good,1590,2,676,768,786,2,2008,2008,6,0.0,0,0,Good,Good,Good,Excellent,210000
+439,Average,1728,2,560,1728,1728,2,1976,1976,8,0.0,0,1606,Average,Average,Average,Average,188000
+440,Good,1242,2,528,1242,1242,1,1973,1973,6,320.0,1,916,Average,Average,Average,Fair,175500
+441,Average,1344,3,513,624,624,1,1916,1950,7,0.0,0,0,Average,Average,Average,Fair,98000
+442,Below Average,1663,2,529,1364,1663,1,1954,1994,6,0.0,2,1116,Good,Average,Good,Excellent,256000
+443,Very Good,1666,1,228,588,833,1,1925,1996,7,0.0,1,0,Good,Average,Average,Fair,161000
+444,Average,1203,1,352,709,979,1,1950,1950,5,161.0,1,185,Good,Average,Average,Average,110000
+445,Very Good,1935,2,552,832,832,2,2009,2009,8,110.0,0,544,Average,Good,Good,Excellent,263435
+446,Good,1135,2,576,560,575,1,1936,2007,6,0.0,0,350,Good,Good,Good,Excellent,155000
+447,Average,864,1,360,864,864,1,1965,1965,5,0.0,1,553,Average,Average,Average,Good,62383
+448,Above Average,1660,1,240,715,849,1,1934,1995,6,0.0,1,326,Average,Average,Average,Fair,188700
+449,Average,1040,0,0,1040,1040,2,1978,1978,5,136.0,0,616,Average,Average,Good,Average,124000
+450,Good,1414,2,398,1375,1414,2,2004,2004,6,18.0,1,0,Good,Good,Good,Excellent,178740
+451,Good,1277,2,526,1277,1277,1,1970,1970,5,0.0,1,778,Average,Average,Average,Average,167000
+452,Average,1644,1,312,728,888,1,1942,1995,7,224.0,2,386,Good,Average,Average,Excellent,146500
+453,Very Good,1634,3,866,1626,1634,2,2006,2006,7,248.0,1,0,Good,Good,Good,Excellent,250000
+454,Above Average,1710,2,506,832,832,2,1993,1993,7,120.0,0,426,Good,Good,Good,Excellent,187000
+455,Very Good,1502,2,528,1488,1502,1,1985,1985,4,0.0,0,368,Good,Good,Good,Average,212000
+456,Good,1969,2,534,808,1161,2,1977,1977,8,0.0,1,0,Average,Average,Good,Average,190000
+457,Above Average,1072,2,525,547,1072,1,2005,2005,5,80.0,0,459,Average,Average,Good,Excellent,148000
+458,Very Good,1976,3,908,1976,1976,2,2006,2007,7,304.0,1,1350,Good,Good,Excellent,Excellent,440000
+459,Very Good,1652,2,499,1494,1652,2,2000,2000,6,0.0,0,1196,Excellent,Good,Good,Excellent,251000
+460,Average,970,2,624,970,970,1,1963,1963,5,0.0,0,630,Average,Average,Average,Average,132500
+461,Above Average,1493,2,508,1478,1493,2,1997,1998,7,215.0,1,994,Good,Average,Good,Excellent,208900
+462,Excellent,2643,3,694,2153,2069,2,2006,2006,9,772.0,1,0,Excellent,Excellent,Good,Excellent,380000
+463,Very Good,1718,3,826,1705,1718,2,2007,2008,7,336.0,1,1288,Good,Good,Excellent,Excellent,297000
+464,Below Average,1131,2,672,907,1131,1,1937,2000,7,435.0,0,168,Average,Average,Fair,Average,89471
+465,Excellent,1850,3,772,1833,1850,2,2004,2005,8,378.0,1,1261,Good,Good,Excellent,Excellent,326000
+466,Excellent,1792,3,874,1792,1792,2,2003,2004,6,562.0,1,1567,Excellent,Good,Excellent,Excellent,374000
+467,Good,1826,1,164,910,916,1,1915,2005,7,0.0,1,299,Excellent,Good,Average,Excellent,155000
+468,Above Average,1216,2,402,1216,1216,2,1998,1998,5,116.0,0,897,Average,Average,Excellent,Excellent,164000
+469,Average,999,1,264,999,999,1,1962,2001,6,0.0,0,588,Good,Average,Average,Good,132500
+470,Average,1113,1,264,1113,1113,1,1950,2007,5,0.0,1,607,Good,Good,Average,Good,147000
+471,Average,1073,2,515,1073,1073,1,1965,1965,6,168.0,0,836,Average,Average,Average,Average,156000
+472,Average,1484,2,487,1484,1484,2,1971,1971,7,0.0,1,998,Average,Average,Good,Good,175000
+473,Average,2414,2,520,954,1766,2,1900,1970,10,0.0,1,664,Average,Average,Average,Average,160000
+474,Below Average,630,1,286,630,630,1,1970,2002,3,0.0,0,515,Good,Average,Good,Average,86000
+475,Average,1304,1,336,264,616,1,1976,1976,4,0.0,1,0,Average,Average,Good,Average,115000
+476,Above Average,1578,1,240,806,958,1,1941,1950,5,0.0,2,403,Fair,Average,Average,Average,133000
+477,Above Average,1456,2,429,728,728,2,2006,2006,8,0.0,0,0,Average,Good,Good,Good,172785
+478,Average,1269,1,308,1269,1269,1,1960,1960,6,0.0,1,374,Average,Average,Average,Average,155000
+479,Average,886,1,273,190,886,1,1938,1996,4,0.0,0,0,Average,Average,Fair,Good,91300
+480,Below Average,720,0,0,720,720,1,1920,1950,4,0.0,0,495,Average,Average,Average,Average,34900
+481,Good,1820,1,240,1026,1133,2,1925,1950,8,0.0,0,329,Average,Average,Average,Excellent,184000
+482,Average,899,1,288,864,899,1,1967,2004,5,89.0,0,450,Good,Average,Average,Excellent,130000
+483,Above Average,1218,1,264,672,672,1,1973,1973,7,285.0,0,356,Average,Average,Average,Average,113000
+484,Good,1768,2,603,866,866,2,2005,2005,7,0.0,0,400,Good,Good,Good,Good,226700
+485,Average,1214,2,461,1214,1214,1,1965,1965,6,0.0,0,698,Average,Average,Average,Excellent,140000
+486,Good,1801,2,484,1501,1801,2,1959,1997,6,0.0,2,1247,Average,Average,Average,Average,289000
+487,Above Average,1322,2,440,855,855,2,1974,1974,6,0.0,1,257,Average,Average,Average,Average,147000
+488,Average,1960,2,400,960,960,2,1952,1952,10,360.0,0,0,Average,Average,Average,Good,124500
+489,Very Good,1911,2,471,777,1065,2,1993,1994,8,125.0,1,380,Good,Good,Good,Excellent,215000
+490,Above Average,1218,2,676,1218,1218,2,2009,2009,4,0.0,0,27,Good,Good,Good,Excellent,208300
+491,Good,1378,2,360,689,689,2,1928,2005,7,0.0,1,141,Good,Average,Average,Excellent,161000
+492,Average,1041,1,270,1041,1041,1,1959,1959,6,132.0,0,991,Average,Average,Average,Excellent,124500
+493,Average,1363,1,288,1008,1363,1,1951,2000,6,70.0,2,650,Average,Good,Average,Excellent,164900
+494,Good,1368,2,474,1368,1368,2,2005,2006,6,94.0,1,0,Good,Good,Good,Excellent,202665
+495,Average,864,2,624,864,864,1,1958,1958,5,0.0,0,521,Average,Average,Average,Average,129900
+496,Above Average,1080,2,484,1084,1080,1,1983,1983,5,0.0,0,336,Average,Average,Average,Average,134000
+497,Average,789,1,200,768,789,1,1926,1950,5,0.0,0,0,Average,Average,Average,Fair,96500
+498,very Excellent,2020,3,900,2006,2020,2,2009,2009,9,305.0,1,1436,Excellent,Excellent,Excellent,Excellent,402861
+499,Above Average,2119,2,583,689,1378,2,1972,1972,7,333.0,1,0,Average,Average,Average,Average,158000
+500,Good,2344,3,889,1264,1277,2,1996,1997,7,921.0,1,0,Good,Good,Good,Excellent,265000
+501,Above Average,1796,2,546,794,882,2,1998,1998,7,0.0,0,706,Average,Average,Good,Excellent,211000
+502,Good,2080,1,282,1276,1276,1,1926,2004,9,0.0,2,0,Good,Good,Good,Excellent,234000
+503,Above Average,1244,1,336,1244,1244,1,1957,1957,6,0.0,2,777,Average,Average,Average,Excellent,150000
+504,Above Average,1664,2,420,1004,1004,2,1947,1950,7,0.0,2,399,Average,Average,Average,Excellent,159000
+505,Good,2398,3,834,1379,1383,2,1996,1997,8,594.0,1,719,Good,Good,Good,Excellent,315750
+506,Good,1266,2,453,1257,1266,2,2005,2005,6,0.0,1,0,Good,Good,Good,Excellent,176000
+507,Average,928,1,252,928,928,1,1956,2000,4,0.0,0,377,Average,Average,Good,Average,132000
+508,Excellent,2713,3,858,1452,1476,2,2008,2008,11,268.0,1,1330,Excellent,Excellent,Excellent,Excellent,446261
+509,Below Average,605,0,0,528,605,1,1920,2002,5,0.0,0,348,Average,Average,Average,Excellent,86000
+510,Above Average,1509,2,600,1461,1509,2,1988,1989,5,219.0,1,783,Good,Good,Good,Excellent,175000
+511,Above Average,1362,2,502,611,751,2,1920,1999,6,0.0,0,0,Average,Average,Fair,Excellent,128000
+512,Average,827,1,392,0,827,1,1955,2007,5,0.0,1,0,Average,Average,None,Excellent,107500
+513,Very Poor,334,0,0,0,334,1,1946,1950,2,0.0,0,0,Fair,Fair,None,Fair,39300
+514,Very Good,1414,2,403,707,707,2,2004,2004,6,0.0,1,0,Good,Good,Excellent,Excellent,178000
+515,Average,1347,0,0,1117,820,1,1910,1991,5,0.0,0,969,Average,Average,Good,Average,107500
+516,Good,1724,2,527,880,880,2,1998,1999,8,0.0,0,0,Good,Average,Good,Excellent,188000
+517,Below Average,864,2,576,864,864,1,1972,1972,5,0.0,0,600,Average,Average,Average,Average,111250
+518,Average,1159,1,336,1051,1159,1,1968,1968,7,188.0,1,673,Average,Average,Average,Average,158000
+519,Very Good,1601,2,670,1581,1601,2,2001,2002,6,479.0,1,1358,Good,Good,Good,Excellent,272000
+520,Excellent,1838,3,765,1838,1838,2,2006,2006,8,584.0,1,1260,Excellent,Excellent,Excellent,Excellent,315000
+521,Very Good,2285,3,648,969,997,2,2000,2000,8,72.0,1,0,Good,Good,Good,Excellent,248000
+522,Good,1680,2,583,1650,1680,2,1998,1999,7,0.0,1,144,Good,Good,Excellent,Excellent,213250
+523,Good,767,1,367,723,767,1,1998,1998,4,182.0,0,584,Average,Average,Good,Excellent,133000
+524,Good,1496,2,426,654,664,2,2006,2006,7,0.0,1,554,Good,Good,Good,Excellent,179665
+525,Good,2183,3,786,1204,1377,2,1988,1988,9,178.0,0,1002,Good,Good,Good,Good,229000
+526,Above Average,1635,2,440,1065,915,1,1923,1950,6,0.0,1,300,Average,Average,Good,Excellent,210000
+527,Average,768,2,624,768,768,1,1970,1970,5,0.0,0,619,Average,Average,Good,Excellent,129500
+528,Average,825,2,720,825,825,1,1955,1995,4,0.0,0,180,Average,Average,Average,Average,125000
+529,Good,2094,2,615,912,912,2,2003,2004,8,0.0,1,0,Good,Good,Good,Excellent,263000
+530,Above Average,1069,2,440,1069,1069,2,1977,1977,4,0.0,0,559,Average,Average,Good,Average,140000
+531,Average,928,1,288,928,928,1,1957,1957,5,0.0,0,308,Average,Average,Average,Good,112500
+532,Very Good,1717,3,908,1709,1717,2,2006,2006,7,250.0,1,0,Good,Good,Excellent,Excellent,255500
+533,Below Average,1126,2,520,0,1126,2,1949,2003,5,0.0,0,0,Good,Average,None,Excellent,108000
+534,Good,2046,3,871,998,1006,2,2003,2004,8,292.0,1,866,Good,Good,Good,Excellent,284000
+535,Average,1048,1,280,993,1048,1,1922,1950,5,0.0,1,0,Average,Average,Average,Average,113000
+536,Average,1092,1,299,1092,1092,1,1957,1957,6,0.0,1,895,Average,Average,Average,Average,141000
+537,Below Average,1336,1,570,637,897,1,1920,1950,7,0.0,0,637,Average,Average,Average,Good,108000
+538,Good,1446,2,406,729,729,2,1996,1997,6,0.0,1,604,Average,Average,Good,Excellent,175000
+539,Good,1557,2,420,1374,1557,2,2003,2004,7,18.0,1,0,Good,Good,Good,Excellent,234000
+540,Average,1392,2,528,1392,1392,1,1957,1996,5,180.0,1,1302,Average,Average,Good,Average,121500
+541,Average,1389,2,418,1389,1389,1,1974,1975,6,0.0,1,1071,Average,Average,Good,Good,170000
+542,Average,996,0,0,996,996,1,1940,1969,6,0.0,1,290,Average,Average,Average,Excellent,108000
+543,Above Average,1674,2,396,1163,1163,2,1918,1950,8,0.0,1,0,Average,Average,Good,Excellent,185000
+544,Good,2295,2,590,1095,1166,2,1992,2000,9,0.0,1,728,Good,Good,Good,Excellent,268000
+545,Above Average,1647,1,216,806,841,1,1915,1950,6,0.0,0,0,Fair,Average,Good,Average,128000
+546,Excellent,2504,3,656,1122,1134,2,2005,2007,11,245.0,1,0,Excellent,Good,Good,Excellent,325000
+547,Good,1535,2,532,1517,1535,2,2004,2004,7,168.0,0,2,Good,Good,Good,Excellent,214000
+548,Very Good,2132,2,612,1496,1496,1,1983,2009,5,0.0,1,1441,Good,Good,Good,Excellent,316600
+549,Average,943,2,600,943,943,1,1979,1979,4,0.0,2,943,Average,Average,Good,Average,135960
+550,Average,1728,2,576,1728,1728,2,1965,1965,10,108.0,0,231,Average,Average,Average,Average,142600
+551,Above Average,864,1,288,864,864,1,1959,1959,4,207.0,0,414,Good,Average,Average,Excellent,120000
+552,Good,1692,2,650,846,846,2,2009,2009,6,0.0,0,0,Good,Average,Excellent,Good,224500
+553,Good,1430,2,400,384,774,2,2000,2000,8,0.0,1,0,Average,Average,Good,Excellent,170000
+554,Average,1109,1,288,372,576,1,1971,2005,5,82.0,0,349,Average,Average,Average,Average,139000
+555,Average,1216,1,336,832,832,1,1947,1950,6,0.0,0,442,Average,Average,Average,Average,118500
+556,Good,1477,1,216,861,877,2,1928,1950,6,0.0,1,0,Average,Average,Average,Good,145000
+557,Average,1320,2,564,1164,1320,1,1966,1966,6,97.0,2,328,Average,Average,Average,Excellent,164500
+558,Good,1392,2,540,689,703,2,2007,2007,5,0.0,0,0,Good,Good,Good,Excellent,146000
+559,Average,1795,1,352,1050,1050,2,1954,1954,7,335.0,0,0,Average,Average,Average,Excellent,131500
+560,Above Average,1429,2,572,1144,1429,1,1960,1987,7,85.0,2,594,Good,Average,Average,Excellent,181900
+561,Very Good,2042,3,1390,2042,2042,2,2008,2009,8,306.0,1,0,Excellent,Excellent,Excellent,Excellent,253293
+562,Above Average,816,0,0,816,816,1,1990,1990,5,104.0,0,816,Average,Average,Good,Average,118500
+563,very Excellent,2775,2,880,1237,1521,3,1893,2000,9,0.0,1,0,Good,Excellent,Average,Good,325000
+564,Below Average,1573,1,240,884,989,1,1935,1995,6,0.0,0,0,Good,Average,Average,Excellent,133000
+565,Very Good,2028,3,880,1868,2028,2,2005,2006,7,208.0,2,1460,Good,Good,Excellent,Excellent,369900
+566,Above Average,838,1,275,816,838,1,1918,2000,5,0.0,0,210,Fair,Average,Average,Excellent,130000
+567,Average,860,2,528,840,860,1,1982,1982,4,0.0,0,672,Average,Average,Average,Average,137000
+568,Average,1473,1,452,1437,1473,1,1968,2003,5,0.0,2,1324,Excellent,Average,Average,Excellent,143000
+569,Average,935,1,308,742,779,1,1930,1960,4,0.0,0,0,Average,Average,Average,Average,79500
+570,Good,1582,2,520,770,770,2,2004,2004,6,0.0,0,490,Good,Good,Good,Excellent,185900
+571,very Excellent,2296,3,842,1722,1728,2,2008,2008,10,420.0,1,1338,Excellent,Excellent,Excellent,Excellent,451950
+572,Average,816,2,816,816,816,1,1982,2003,4,0.0,0,816,Average,Average,Average,Excellent,138000
+573,Above Average,848,2,420,848,848,1,2003,2003,4,170.0,0,685,Good,Good,Good,Excellent,140000
+574,Average,924,1,280,924,924,1,1975,1975,5,0.0,0,0,Average,Average,Good,Average,110000
+575,Very Good,1826,3,758,1814,1826,2,2005,2006,7,238.0,1,1422,Good,Good,Good,Excellent,319000
+576,Above Average,1368,1,216,684,684,1,1910,1993,7,0.0,0,0,Average,Average,Average,Excellent,114504
+577,Good,1402,3,648,1258,1402,0,2006,2007,7,72.0,1,0,Good,Good,Excellent,Excellent,194201
+578,Average,1647,2,621,1430,1647,2,1977,1977,7,459.0,1,1283,Good,Average,Good,Excellent,217500
+579,Above Average,1556,2,452,716,716,2,1980,1980,6,0.0,1,81,Average,Average,Good,Average,151000
+580,Very Good,1904,2,736,1058,1058,2,2005,2005,8,280.0,1,546,Excellent,Good,Good,Excellent,275000
+581,Above Average,1375,1,544,780,780,1,1937,1950,6,0.0,1,0,Good,Average,Average,Average,141000
+582,Very Good,1915,2,506,908,927,2,1992,1992,8,0.0,1,789,Good,Good,Good,Excellent,220000
+583,Good,1200,2,480,600,600,2,2004,2005,4,0.0,0,0,Good,Good,Good,Excellent,151000
+584,Good,1494,2,530,1494,1494,2,2002,2002,6,99.0,1,922,Good,Good,Good,Excellent,221000
+585,Good,1986,2,486,768,1186,2,1965,1990,7,176.0,3,454,Average,Average,Average,Average,205000
+586,Average,1040,2,576,1040,1040,1,1996,1996,6,0.0,0,732,Good,Average,Good,Good,152000
+587,Average,2008,1,230,896,1112,3,1948,2002,8,0.0,0,603,Excellent,Average,Average,Excellent,225000
+588,Very Good,3194,2,380,965,1940,2,1934,1998,10,0.0,2,428,Average,Average,Good,Average,359100
+589,Below Average,1029,1,261,1029,1029,1,1961,1961,5,192.0,0,903,Average,Average,Average,Good,118500
+590,Excellent,2153,3,736,1440,1476,2,2000,2000,8,204.0,2,904,Excellent,Good,Excellent,Excellent,313000
+591,Above Average,1032,2,564,1032,1032,2,1978,1978,6,233.0,1,605,Average,Average,Good,Average,148000
+592,Very Good,1872,2,531,1299,1299,2,2001,2001,7,108.0,1,990,Excellent,Good,Good,Excellent,261500
+593,Average,1120,0,0,1120,1120,1,2007,2007,6,0.0,0,206,Average,Average,Good,Excellent,147000
+594,Below Average,630,0,0,630,630,1,1972,1972,3,0.0,0,150,Average,Average,Good,Excellent,75500
+595,Above Average,1054,2,480,936,1054,1,1963,1963,6,156.0,0,763,Good,Average,Average,Excellent,137500
+596,Above Average,1509,2,393,783,807,2,2002,2003,7,0.0,1,457,Good,Good,Good,Excellent,183200
+597,Above Average,832,2,528,832,832,1,1954,1954,4,0.0,0,0,Good,Average,Average,Good,105500
+598,Excellent,1828,3,774,1822,1828,2,2007,2007,9,452.0,1,48,Good,Excellent,Excellent,Excellent,314813
+599,Very Good,2262,3,749,1482,1482,2,2003,2003,10,226.0,2,871,Good,Good,Good,Excellent,305000
+600,Fair,864,0,0,864,864,1,1914,1950,5,0.0,0,41,Average,Average,Average,Average,67000
+601,Above Average,2614,2,624,1522,1548,2,1974,1997,9,0.0,1,956,Average,Average,Average,Average,240000
+602,Average,980,2,484,980,980,1,1977,1977,6,153.0,0,560,Average,Average,Average,Average,135000
+603,Above Average,1512,2,440,756,756,2,2000,2000,4,513.0,1,420,Good,Good,Good,Excellent,168500
+604,Above Average,1790,2,484,732,1012,1,1972,1972,8,288.0,1,247,Average,Average,Average,Good,165150
+605,Above Average,1116,2,440,1116,1116,1,1962,1962,5,261.0,0,0,Average,Average,Average,Average,160000
+606,Average,1422,1,286,978,1422,1,1960,1978,6,0.0,1,0,Average,Average,Average,Average,139900
+607,Above Average,1520,1,364,1156,1520,1,1955,1972,7,164.0,2,674,Average,Average,Average,Excellent,153000
+608,Average,2080,2,504,1040,1040,1,1969,1969,9,192.0,2,650,Fair,Average,Good,Average,135000
+609,Above Average,1350,2,520,1248,1350,1,1964,1964,6,259.0,0,624,Average,Average,Average,Average,168500
+610,Average,1750,1,240,636,1089,1,1880,1991,8,0.0,0,0,Excellent,Average,Fair,Average,124000
+611,Very Good,1554,2,627,1554,1554,2,2006,2006,6,108.0,1,24,Good,Good,Good,Excellent,209500
+612,Good,1411,2,544,1386,1411,2,1977,1977,6,209.0,1,822,Average,Average,Average,Average,82500
+613,Average,1056,1,260,1056,1056,1,1954,2005,6,0.0,0,480,Average,Average,Average,Average,139400
+614,Above Average,1056,2,576,1056,1056,0,1980,1980,4,0.0,0,1056,Average,Average,Average,Good,144000
+615,Poor,800,0,0,264,800,1,1936,1950,4,0.0,1,0,Fair,Fair,Average,Fair,60000
+616,Average,1387,1,256,811,811,2,1954,1954,7,0.0,0,0,Good,Average,Average,Average,93000
+617,Average,796,0,0,796,796,1,1910,1950,4,0.0,0,0,Average,Average,Fair,Good,85000
+618,Very Good,1567,3,648,1520,1567,2,2006,2006,7,0.0,1,1154,Excellent,Good,Good,Excellent,264561
+619,Very Good,1518,2,588,1518,1518,1,2003,2004,6,472.0,1,1218,Excellent,Excellent,Excellent,Excellent,274000
+620,Good,1929,2,650,1057,1057,2,2001,2001,7,0.0,1,738,Good,Good,Good,Excellent,226000
+621,Very Good,2704,2,538,1952,2000,2,1972,1995,9,0.0,3,1410,Excellent,Good,Good,Good,345000
+622,Average,1620,2,462,780,780,2,1969,1969,7,263.0,0,493,Average,Average,Average,Excellent,152000
+623,Excellent,1766,3,478,1766,1766,2,2009,2009,7,162.0,1,1121,Excellent,Excellent,Excellent,Excellent,370878
+624,Above Average,981,2,576,981,981,1,1971,1971,5,0.0,0,282,Average,Average,Average,Average,143250
+625,Average,1048,2,420,0,1048,1,1950,1950,7,0.0,0,0,Average,Average,None,Good,98300
+626,Above Average,1094,2,495,1094,1094,1,1953,1953,5,216.0,2,500,Average,Average,Average,Excellent,155000
+627,Above Average,1839,2,442,756,1051,1,1966,1966,7,351.0,1,0,Average,Average,Average,Average,155000
+628,Below Average,630,0,0,630,630,1,1970,1970,3,0.0,0,131,Average,Average,Good,Good,84500
+629,Good,1665,2,562,813,822,2,2007,2007,7,0.0,0,0,Good,Good,Good,Excellent,205950
+630,Below Average,1510,1,296,755,755,1,1940,1950,7,0.0,1,0,Average,Average,Average,Average,108000
+631,Good,1716,2,512,880,909,2,1996,1996,7,0.0,1,0,Good,Good,Good,Excellent,191000
+632,Above Average,1469,1,216,756,756,1,1906,1995,7,0.0,0,0,Average,Average,Average,Excellent,135000
+633,Very Good,2113,3,839,2109,2113,2,1995,1995,7,660.0,1,1696,Good,Good,Good,Excellent,350000
+634,Above Average,1092,1,264,525,525,1,1971,1971,6,381.0,0,0,Average,Average,Average,Average,88000
+635,Average,1053,1,312,1053,1053,1,1959,2006,5,54.0,0,806,Good,Good,Average,Excellent,145500
+636,Good,1502,1,270,776,851,1,1931,2000,6,0.0,1,0,Average,Average,Good,Average,149000
+637,Above Average,1458,1,330,912,912,1,1948,1950,6,0.0,1,0,Average,Average,Average,Average,97500
+638,Average,1486,2,480,1486,1486,1,1964,1999,7,0.0,0,637,Average,Average,Average,Excellent,167000
+639,Good,1935,2,550,793,1142,2,1976,1976,7,233.0,1,0,Average,Average,Good,Average,197900
+640,Very Good,2448,3,711,1629,1686,2,1994,2005,8,528.0,1,1361,Good,Good,Good,Excellent,402000
+641,Above Average,1392,2,576,1392,1392,1,1968,1968,5,216.0,2,0,Average,Average,Fair,Good,110000
+642,Below Average,1181,2,588,1138,1181,2,1972,1972,6,0.0,0,920,Average,Average,Good,Average,137500
+643,Very Good,1936,2,504,1406,1454,2,2000,2000,7,40.0,1,0,Good,Good,Good,Excellent,230500
+644,Above Average,2380,2,596,1021,1465,2,1965,1979,7,113.0,1,187,Average,Average,Good,Average,129000
+645,Above Average,1679,2,575,1408,1679,2,1994,1998,7,258.0,1,1138,Good,Average,Good,Excellent,193500
+646,Average,1437,2,576,1188,1437,1,1956,1987,6,0.0,1,988,Average,Average,Average,Good,168000
+647,Below Average,1180,1,252,700,1180,1,1922,1950,5,0.0,1,0,Fair,Average,Fair,Excellent,137500
+648,Above Average,1476,2,540,738,738,2,2005,2005,7,0.0,0,193,Good,Good,Good,Excellent,173500
+649,Above Average,1369,1,300,672,697,2,1925,1950,6,0.0,0,551,Average,Average,Average,Average,103600
+650,Above Average,1208,2,546,1208,1208,1,1977,1977,6,0.0,1,767,Average,Good,Good,Average,165000
+651,Above Average,1839,2,416,1477,1839,2,1957,2004,7,106.0,2,1186,Good,Average,Average,Excellent,257500
+652,Above Average,1136,1,384,1136,1136,1,1965,1965,5,0.0,1,892,Average,Average,Average,Average,140000
+653,Above Average,1441,2,440,855,855,2,1978,1978,7,0.0,1,311,Average,Average,Average,Average,148500
+654,Below Average,1774,3,779,1095,1095,2,1900,1950,8,0.0,0,0,Average,Average,Average,Fair,87000
+655,Average,792,1,240,768,792,1,1924,2006,5,0.0,0,0,Good,Good,Average,Excellent,109500
+656,Very Good,2046,3,834,2046,2046,2,2008,2008,7,464.0,1,0,Good,Good,Excellent,Excellent,372500
+657,Average,988,2,572,988,988,1,1961,1961,5,57.0,0,827,Average,Average,Average,Average,128500
+658,Above Average,923,1,264,923,923,2,1980,1980,5,0.0,1,543,Average,Average,Good,Average,143000
+659,Average,1520,1,281,793,848,1,1932,2000,6,0.0,0,182,Average,Average,Average,Excellent,159434
+660,Above Average,1291,2,431,1291,1291,1,1996,1997,6,0.0,1,1003,Good,Average,Good,Excellent,173000
+661,Excellent,1668,3,702,1626,1668,2,2002,2002,7,215.0,1,1059,Good,Good,Good,Excellent,285000
+662,Good,1839,2,486,1195,1195,2,1998,1998,7,30.0,0,0,Average,Good,Good,Good,221000
+663,Good,2090,2,577,1190,1190,2,1984,1984,6,0.0,1,828,Good,Good,Good,Good,207500
+664,Good,1761,2,578,874,874,3,2007,2007,7,0.0,0,0,Good,Good,Good,Excellent,227875
+665,Good,1102,2,480,551,551,2,2004,2004,4,0.0,0,239,Good,Good,Good,Excellent,148800
+666,Very Good,1419,2,567,1419,1419,2,2007,2007,7,0.0,1,945,Good,Good,Good,Excellent,392000
+667,Above Average,1362,2,460,1362,1362,2,2005,2006,6,256.0,1,20,Good,Good,Good,Excellent,194700
+668,Above Average,848,2,420,848,848,1,2004,2004,3,147.0,1,697,Good,Good,Good,Excellent,141000
+669,Good,2519,2,628,1210,1238,2,1989,1990,9,293.0,2,965,Good,Good,Good,Excellent,335000
+670,Average,1073,1,326,1073,1073,1,1921,1968,4,0.0,0,0,Average,Average,Average,Excellent,108480
+671,Average,1539,2,576,927,1067,1,1936,1950,5,0.0,0,0,Average,Average,Average,Average,141500
+672,Above Average,1137,2,551,1112,1137,2,1987,1987,5,72.0,1,980,Good,Average,Good,Good,176000
+673,Average,616,1,205,616,616,1,1921,1950,4,0.0,0,616,Average,Average,Average,Good,89000
+674,Average,1148,1,308,980,1148,1,1952,1952,6,0.0,0,210,Average,Average,Excellent,Fair,123500
+675,Average,894,1,336,894,894,1,1965,2009,5,0.0,1,553,Average,Average,Average,Excellent,138500
+676,Good,1391,2,530,1391,1391,2,2004,2004,5,0.0,0,16,Good,Good,Good,Excellent,196000
+677,Very Good,1800,3,765,1800,1800,2,2002,2002,7,630.0,1,1274,Good,Good,Excellent,Excellent,312500
+678,Good,1164,2,528,1164,1164,1,1969,1969,6,168.0,0,0,Average,Average,Average,Average,140000
+679,Very Good,2576,3,666,1234,1264,2,2006,2006,10,466.0,1,0,Excellent,Excellent,Excellent,Excellent,361919
+680,Good,1484,2,606,1473,1484,2,2004,2005,7,109.0,0,712,Good,Good,Good,Excellent,213000
+681,Good,1824,2,739,1643,1824,2,1971,2002,5,351.0,2,1219,Good,Average,Good,Average,302000
+682,Very Good,1324,2,550,1324,1324,2,2006,2006,6,176.0,1,863,Good,Good,Good,Excellent,254000
+683,Good,1456,2,400,728,728,2,2007,2007,8,0.0,1,0,Good,Good,Good,Excellent,179540
+684,Average,904,1,408,876,904,1,1966,1966,6,41.0,0,0,Average,Average,Average,Average,109900
+685,Fair,729,0,0,270,729,1,1935,2003,5,0.0,0,0,Average,Good,Average,Good,52000
+686,Below Average,1178,1,384,859,859,1,1900,1950,7,0.0,0,0,Average,Average,Average,Good,102776
+687,Very Good,1228,2,472,1228,1228,2,1988,1989,5,0.0,1,767,Good,Good,Good,Good,189000
+688,Below Average,960,2,576,960,960,1,1970,1970,6,160.0,0,789,Average,Average,Average,Average,129000
+689,Above Average,1479,2,475,725,725,2,1976,2005,6,289.0,0,533,Good,Good,Average,Excellent,130500
+690,Above Average,1350,2,478,1064,1350,2,1974,1974,7,174.0,1,0,Average,Average,Good,Average,165000
+691,Good,2554,2,704,718,1576,1,1890,1998,8,0.0,0,0,Average,Average,Average,Excellent,159500
+692,Average,1178,2,439,1176,1178,1,1973,2000,5,0.0,1,1084,Good,Average,Good,Good,157000
+693,Good,2418,3,983,1311,1325,2,1993,1994,9,651.0,1,1173,Good,Good,Good,Excellent,341000
+694,Average,971,1,300,971,971,1,1969,1969,5,0.0,1,523,Average,Average,Good,Average,128500
+695,Very Good,1742,2,564,1742,1742,2,1985,1985,5,0.0,1,1148,Good,Good,Good,Average,275000
+696,Above Average,848,2,420,848,848,1,2004,2004,3,169.0,0,662,Good,Good,Good,Excellent,143000
+697,Below Average,864,2,463,864,864,1,1970,1970,5,0.0,0,191,Average,Average,Average,Excellent,124500
+698,Below Average,1470,1,548,941,997,2,1954,1972,7,0.0,0,0,Average,Average,Average,Excellent,135000
+699,Excellent,1698,3,768,1698,1698,2,2007,2008,8,340.0,1,1234,Excellent,Excellent,Excellent,Excellent,320000
+700,Below Average,864,2,660,864,864,1,1970,1970,5,0.0,0,375,Good,Average,Average,Average,120500
+701,Above Average,1680,2,540,880,1680,2,1988,2007,5,260.0,1,808,Good,Good,Good,Excellent,222000
+702,Good,1232,2,632,1232,1232,2,2007,2007,6,82.0,0,724,Good,Good,Good,Excellent,194500
+703,Average,1776,3,888,1584,1776,2,1958,1958,9,95.0,0,0,Average,Average,Average,Average,110000
+704,Below Average,1208,2,539,780,848,1,1925,1950,5,0.0,0,152,Average,Average,Average,Average,103000
+705,Very Good,1616,2,608,1595,1616,2,1995,1996,5,0.0,1,1180,Good,Good,Good,Excellent,236500
+706,Good,1146,2,438,868,1146,2,2003,2003,6,442.0,1,786,Good,Good,Excellent,Excellent,187500
+707,Good,2031,2,541,1153,1153,2,1998,1999,8,202.0,1,252,Good,Good,Good,Excellent,222500
+708,Average,1144,1,264,864,1144,1,1961,1983,6,0.0,1,594,Average,Average,Average,Excellent,131400
+709,Average,948,1,300,948,948,1,1968,1968,6,0.0,0,0,Average,Average,Average,Average,108000
+710,Good,1768,2,320,880,880,1,1914,1970,6,0.0,2,390,Average,Average,Good,Fair,163000
+711,Fair,1040,2,400,0,1040,2,1950,1950,6,0.0,0,0,Average,Average,None,Good,93500
+712,Very Good,1801,3,800,893,901,2,2005,2005,8,0.0,1,0,Good,Good,Good,Excellent,239900
+713,Average,1200,0,0,1200,1200,3,1987,1988,5,0.0,0,1200,Average,Average,Good,Average,179000
+714,Good,1728,2,572,864,864,2,2004,2004,7,0.0,0,0,Good,Good,Good,Excellent,190000
+715,Average,1432,2,360,264,768,2,1910,2002,7,0.0,0,0,Average,Average,Fair,Excellent,132000
+716,Above Average,912,1,288,912,912,1,1961,1996,5,0.0,0,832,Good,Average,Average,Good,142000
+717,Good,1349,2,539,1349,1349,2,2000,2001,6,108.0,0,0,Average,Average,Good,Excellent,179000
+718,Average,1464,2,480,520,1464,2,1963,1999,6,0.0,1,444,Average,Average,Good,Excellent,175000
+719,Very Good,1337,2,462,1337,1337,2,1993,1993,5,0.0,1,733,Good,Good,Good,Good,180000
+720,Good,2256,2,554,952,980,2,2000,2000,8,0.0,1,300,Good,Good,Good,Excellent,236000
+721,Good,2640,4,864,1240,1320,1,1880,2003,8,0.0,1,0,Good,Good,Average,Average,265979
+722,Good,1720,2,527,1720,1720,2,1996,1996,7,338.0,1,919,Good,Good,Good,Excellent,260400
+723,Below Average,1529,1,240,0,1088,2,1945,1950,9,0.0,0,0,Average,Average,None,Average,98000
+724,Below Average,1140,0,0,576,792,1,1910,2004,7,0.0,0,0,Average,Average,Average,Good,96500
+725,Good,1320,2,400,660,660,2,2003,2003,6,0.0,0,0,Good,Good,Good,Excellent,162000
+726,Above Average,1494,2,576,1479,1494,2,1997,1997,6,0.0,0,1200,Good,Average,Good,Excellent,217000
+727,Very Good,2098,3,878,1030,1038,2,2005,2005,8,178.0,1,0,Excellent,Good,Good,Good,275500
+728,Above Average,1026,2,440,1026,1026,1,1969,2005,5,0.0,0,439,Good,Average,Average,Good,156000
+729,Above Average,1471,2,440,729,742,2,1999,1999,6,894.0,0,381,Average,Average,Good,Good,172500
+730,Very Good,1768,2,578,866,866,2,2007,2007,7,0.0,0,20,Good,Good,Good,Excellent,212000
+731,Above Average,1386,2,440,672,672,2,1978,1978,6,328.0,1,438,Average,Average,Average,Average,158900
+732,Good,1501,2,440,744,757,2,1999,1999,6,360.0,0,549,Average,Average,Good,Good,179400
+733,Very Good,2531,3,752,1318,1328,2,1995,1995,9,513.0,1,56,Good,Good,Good,Excellent,290000
+734,Above Average,864,1,300,864,864,1,1959,1959,5,0.0,0,612,Average,Average,Average,Excellent,127500
+735,Average,1301,2,440,1145,1301,1,1924,1950,5,0.0,0,405,Fair,Average,Average,Average,100000
+736,Good,1547,2,614,756,764,2,2009,2009,7,0.0,0,24,Good,Average,Good,Excellent,215200
+737,Very Good,2365,3,856,1252,1268,2,1999,1999,8,673.0,1,1163,Good,Good,Good,Excellent,337000
+738,Very Good,1494,2,481,1494,1494,1,1995,1996,6,0.0,1,437,Excellent,Good,Good,Excellent,270000
+739,Excellent,1506,2,592,1498,1506,2,2008,2008,6,284.0,1,0,Excellent,Good,Good,Excellent,264132
+740,Good,1714,2,496,980,980,2,1988,1988,7,42.0,1,394,Average,Average,Good,Average,196500
+741,Above Average,1750,1,423,983,983,2,1940,1985,7,0.0,0,660,Average,Average,Good,Excellent,160000
+742,Good,1836,2,484,1860,1836,2,2004,2005,8,0.0,1,24,Good,Good,Good,Excellent,216837
+743,Average,858,2,576,858,858,1,1982,1982,5,0.0,0,685,Average,Average,Good,Average,134900
+744,Below Average,1220,2,396,836,1220,1,1951,1951,6,0.0,0,836,Average,Average,Fair,Average,102000
+745,Above Average,1117,2,672,1029,1117,1,1976,1976,6,0.0,1,422,Average,Average,Average,Average,107000
+746,Average,912,1,275,912,912,1,1958,1958,5,1.0,0,456,Average,Average,Average,Excellent,114500
+747,Very Good,1973,3,895,1935,1973,2,2006,2006,9,375.0,1,0,Good,Good,Good,Good,395000
+748,Above Average,1204,2,412,1204,1204,2,1998,1998,5,320.0,0,866,Average,Average,Excellent,Excellent,162000
+749,Good,1614,3,865,1614,1614,2,2005,2006,7,240.0,0,20,Good,Good,Good,Excellent,221500
+750,Average,894,2,440,864,894,1,1974,1974,5,0.0,1,762,Average,Average,Average,Average,142500
+751,Average,2020,2,630,0,2020,2,1977,1977,10,320.0,2,0,Average,Average,None,Average,144000
+752,Above Average,1004,2,504,975,1004,1,1977,1977,4,90.0,0,975,Average,Average,Good,Average,135000
+753,Good,1253,2,402,1237,1253,2,1995,1996,6,38.0,1,0,Average,Average,Good,Good,176000
+754,Above Average,1603,2,484,761,810,2,1992,1992,7,0.0,0,387,Good,Good,Good,Excellent,175900
+755,Good,1430,2,605,1413,1430,2,2001,2002,6,0.0,0,0,Good,Good,Good,Excellent,187100
+756,Average,1110,2,602,1097,1110,1,1978,1978,4,104.0,1,1097,Good,Average,Good,Excellent,165500
+757,Above Average,1484,0,0,742,742,2,1914,2001,9,0.0,1,0,Average,Average,Average,Excellent,128000
+758,Above Average,1342,2,457,1372,1342,2,1967,1967,7,0.0,1,251,Average,Average,Average,Average,161500
+759,Average,1652,1,416,686,966,2,1915,1950,7,0.0,0,686,Average,Average,Fair,Average,139000
+760,Good,2084,2,618,956,956,2,2004,2004,8,0.0,0,656,Good,Good,Good,Excellent,233000
+761,Below Average,901,1,281,901,901,1,1954,2000,4,0.0,0,0,Average,Average,Average,Excellent,107900
+762,Above Average,2087,2,444,832,976,2,1966,2007,9,157.0,0,568,Good,Average,Average,Good,187500
+763,Good,1145,2,397,1145,1145,2,2005,2006,5,11.0,1,16,Good,Good,Good,Excellent,160200
+764,Above Average,1062,2,539,1029,1062,1,1976,1976,5,0.0,2,539,Average,Average,Good,Average,146800
+765,Good,2013,2,455,1117,1127,2,1996,1997,8,0.0,1,862,Average,Good,Good,Excellent,269790
+766,Very Good,1496,2,474,1496,1496,2,2007,2007,7,140.0,0,0,Good,Good,Good,Excellent,225000
+767,Good,1895,2,409,712,1086,2,1994,1996,7,0.0,1,0,Good,Good,Good,Excellent,194500
+768,Above Average,1564,2,476,650,888,2,1980,1981,7,130.0,1,0,Average,Average,Good,Average,171000
+769,Above Average,1285,2,528,660,1285,1,1977,1977,7,148.0,1,0,Average,Average,Average,Excellent,143500
+770,Average,773,1,240,773,773,1,1953,1953,4,0.0,0,570,Average,Average,Average,Good,110000
+771,Excellent,3140,3,820,1926,1966,3,2008,2009,11,860.0,2,0,Excellent,Excellent,Excellent,Excellent,485000
+772,Average,1768,1,240,731,981,1,1937,1950,7,252.0,2,569,Good,Average,Good,Excellent,175000
+773,Above Average,1688,2,603,616,616,2,1997,1997,8,0.0,0,462,Good,Average,Good,Good,200000
+774,Below Average,1196,2,440,1196,1196,1,1916,1990,5,0.0,0,197,Average,Average,Average,Excellent,109900
+775,Good,1456,2,410,728,728,2,2005,2005,7,0.0,1,648,Good,Good,Good,Excellent,189000
+776,Average,1128,1,286,936,1128,1,1954,1954,5,0.0,0,812,Average,Average,Average,Average,118000
+777,Good,1428,2,554,1417,1428,2,2008,2008,6,256.0,0,0,Excellent,Good,Good,Excellent,227680
+778,Average,980,1,384,980,980,2,1967,1967,6,0.0,0,400,Average,Average,Average,Good,135500
+779,Average,1576,2,528,1324,1072,1,1923,2004,6,0.0,1,1309,Good,Average,Average,Excellent,223500
+780,Average,1086,2,484,1024,1086,1,1966,1966,6,1047.0,1,516,Average,Average,Average,Average,159950
+781,Average,2138,2,360,849,1075,2,1898,1965,11,0.0,0,0,Average,Average,Average,Average,106000
+782,Above Average,1309,2,484,1040,1309,1,1974,1999,5,99.0,1,663,Good,Average,Average,Fair,181000
+783,Above Average,848,2,420,848,848,1,2004,2004,4,169.0,1,662,Good,Good,Good,Excellent,144500
+784,Average,1044,2,504,540,1044,1,1952,1952,4,0.0,0,0,Fair,Fair,Average,Average,55993
+785,Above Average,1442,1,301,1442,1442,1,1958,1958,7,243.0,0,608,Average,Average,Average,Good,157900
+786,Average,1250,1,280,686,686,1,1918,1950,7,0.0,0,0,Fair,Average,Average,Good,116000
+787,Good,1661,2,598,1649,1661,2,1998,1998,6,442.0,0,0,Good,Average,Good,Excellent,224900
+788,Average,1008,1,275,1008,1008,1,1954,1954,4,0.0,1,486,Average,Average,Average,Good,137000
+789,Very Good,1689,3,857,1568,1689,2,2002,2002,7,148.0,2,1218,Good,Good,Good,Excellent,271000
+790,Above Average,1052,2,440,1010,1052,1,1971,1971,6,80.0,0,504,Average,Average,Average,Good,155000
+791,Good,1358,2,484,1358,1358,2,2009,2010,6,128.0,1,733,Good,Good,Good,Excellent,224000
+792,Good,1640,2,595,798,798,2,2003,2003,6,0.0,0,0,Good,Good,Good,Excellent,183000
+793,Below Average,936,2,576,936,936,1,1953,1953,4,0.0,0,0,Average,Fair,Fair,Average,93000
+794,Good,1733,2,433,847,847,2,2003,2003,7,0.0,1,0,Good,Good,Good,Excellent,225000
+795,Above Average,1489,1,240,778,944,2,1940,1950,7,0.0,1,0,Average,Average,Average,Average,139500
+796,Very Good,1489,2,776,1489,1489,2,2006,2006,7,0.0,1,0,Good,Good,Good,Excellent,232600
+797,very Excellent,2084,3,1220,2078,2084,2,2007,2008,7,816.0,1,1636,Excellent,Excellent,Excellent,Excellent,385000
+798,Average,784,0,0,784,784,1,1924,1950,5,0.0,0,784,Good,Average,Average,Good,109500
+799,Good,1434,2,527,1454,1434,2,2001,2001,6,0.0,1,20,Good,Good,Good,Excellent,189000
+800,Good,1223,2,480,600,520,2,2005,2005,4,0.0,0,0,Good,Good,Good,Excellent,147400
+801,Above Average,1392,2,458,1392,1392,1,1957,1957,6,387.0,2,1040,Average,Average,Average,Average,166000
+802,Good,1200,2,480,600,520,2,2005,2005,4,0.0,0,0,Good,Average,Good,Excellent,151000
+803,Good,1829,2,613,941,941,2,2003,2003,7,223.0,1,483,Good,Good,Good,Excellent,237000
+804,Above Average,1516,2,472,1516,1516,1,1964,1964,6,180.0,0,196,Average,Average,Average,Average,167000
+805,Average,1144,2,456,1144,1144,1,1961,1961,6,136.0,0,572,Average,Average,Average,Good,139950
+806,Below Average,1067,2,436,1067,1067,2,1950,1995,4,0.0,0,442,Good,Average,Good,Average,128000
+807,Average,1559,2,812,1559,1559,1,1948,1973,5,0.0,0,338,Average,Average,Average,Good,153500
+808,Above Average,987,1,264,483,483,1,1973,1973,5,158.0,0,330,Average,Average,Average,Average,100000
+809,Average,1099,1,352,1099,1099,1,1995,2006,6,0.0,0,0,Good,Average,Good,Excellent,144000
+810,Average,1200,1,240,768,768,1,1946,1995,6,0.0,0,352,Average,Average,Average,Excellent,130500
+811,Above Average,1482,1,400,672,810,2,1925,1950,7,0.0,0,156,Fair,Average,Average,Average,140000
+812,Average,1539,2,686,650,958,2,1904,2002,8,0.0,1,0,Good,Average,Average,Good,157500
+813,Above Average,1165,2,490,1127,1165,1,1966,1966,6,183.0,0,312,Average,Average,Average,Average,174900
+814,Average,1800,0,0,1800,1800,2,1961,1961,10,0.0,0,0,Average,Average,Average,Excellent,141000
+815,Average,1416,3,720,876,876,1,1915,1950,7,0.0,1,0,Average,Average,Average,Good,153900
+816,Average,1701,2,611,1390,1701,2,1975,1981,6,0.0,2,1390,Average,Average,Good,Average,171000
+817,Good,1775,2,425,740,1006,2,1993,1993,7,137.0,1,513,Good,Good,Good,Excellent,213000
+818,Average,864,1,338,864,864,1,1972,1972,5,0.0,1,460,Average,Average,Average,Excellent,133500
+819,Above Average,1855,2,512,528,1094,2,1976,1994,7,360.0,1,0,Average,Good,Average,Excellent,187000
+820,Above Average,848,2,420,848,848,1,2003,2003,3,170.0,0,659,Good,Good,Good,Excellent,131500
+821,Very Good,1456,2,400,1273,1456,2,2003,2003,7,40.0,1,0,Good,Good,Good,Excellent,215000
+822,Good,1646,1,240,918,918,2,1941,1950,7,0.0,2,364,Average,Average,Average,Good,164000
+823,Above Average,1445,2,645,1127,1445,1,1964,1964,7,115.0,1,564,Average,Average,Average,Average,158000
+824,Average,1040,1,260,1040,1040,1,1962,2010,6,0.0,0,659,Average,Average,Average,Excellent,127000
+825,Above Average,1026,2,576,940,1026,1,1978,1978,5,0.0,0,505,Average,Average,Good,Average,147000
+826,Above Average,1481,2,343,702,702,2,1994,1995,6,0.0,1,0,Average,Average,Good,Good,174000
+827,Good,1370,2,479,1090,1370,2,1976,1976,6,189.0,1,0,Average,Average,Good,Average,152000
+828,Above Average,2654,2,619,1054,1512,2,1968,1984,9,220.0,1,619,Good,Average,Average,Average,250000
+829,Good,1426,1,216,912,912,1,1918,1998,7,0.0,1,0,Good,Good,Average,Good,189950
+830,Average,1039,2,504,1039,1039,1,1965,1965,6,0.0,0,841,Average,Average,Average,Excellent,131500
+831,Above Average,1097,2,480,1040,1097,2,1984,1985,6,0.0,0,338,Average,Average,Good,Average,152000
+832,Average,1148,1,672,1148,1148,1,1959,1959,6,0.0,0,1148,Average,Average,Average,Average,132500
+833,Good,1372,2,529,1372,1372,2,2007,2008,6,0.0,0,0,Good,Good,Excellent,Excellent,250580
+834,Average,1002,2,902,1002,1002,1,1970,1970,5,76.0,0,828,Average,Average,Average,Average,148500
+835,Very Good,1646,3,870,1638,1646,2,2006,2007,6,274.0,1,0,Good,Good,Good,Excellent,248900
+836,Below Average,1120,2,544,1040,1120,1,1961,1961,5,0.0,0,932,Fair,Average,Average,Average,129000
+837,Average,2320,2,672,0,1547,2,1948,1950,7,0.0,1,0,Average,Average,None,Good,169000
+838,Good,1949,2,574,1050,1062,2,1993,1994,8,246.0,1,750,Good,Good,Good,Excellent,236000
+839,Average,894,1,308,894,894,1,1962,1962,5,0.0,0,0,Average,Average,Average,Good,109500
+840,Above Average,1682,2,523,804,804,2,1998,1998,7,116.0,0,505,Good,Average,Good,Excellent,200500
+841,Average,910,2,414,105,910,1,1953,1996,5,0.0,0,0,Good,Good,Average,Good,116000
+842,Average,1268,1,288,832,1036,1,1949,1950,6,0.0,1,375,Average,Good,Average,Good,133000
+843,Average,1131,1,200,676,676,1,1941,1950,5,0.0,0,0,Average,Average,Average,Excellent,66500
+844,Very Good,2610,2,550,1184,1184,2,2007,2007,11,0.0,1,64,Excellent,Good,Good,Excellent,303477
+845,Below Average,1040,2,648,1064,1040,1,1963,1963,5,0.0,0,633,Average,Average,Average,Good,132250
+846,Excellent,2224,3,738,1462,1462,2,2004,2005,10,216.0,1,1170,Excellent,Good,Excellent,Excellent,350000
+847,Average,1155,2,576,1109,1155,1,1961,1995,6,0.0,0,899,Good,Average,Average,Average,148000
+848,Average,864,1,336,864,864,1,1978,2005,6,90.0,0,646,Average,Good,Average,Excellent,136500
+849,Average,1090,2,450,1090,1090,1,2005,2006,5,0.0,0,980,Average,Average,Excellent,Good,157000
+850,Good,1717,2,400,1156,1187,2,1990,1991,7,117.0,1,902,Good,Good,Good,Excellent,187500
+851,Above Average,1593,2,389,808,808,2,1992,1993,7,0.0,1,0,Average,Average,Good,Good,178000
+852,Below Average,2230,1,440,795,954,1,1912,1950,10,0.0,0,0,Average,Good,Average,Average,118500
+853,Average,892,1,288,892,892,1,1967,1967,5,60.0,0,432,Average,Average,Average,Average,100000
+854,Excellent,1709,2,506,1698,1709,2,1999,2000,5,60.0,1,1238,Good,Good,Excellent,Excellent,328900
+855,Average,1712,2,588,1626,1712,2,1959,2005,8,122.0,0,528,Average,Average,Average,Excellent,145000
+856,Average,1393,1,300,816,872,1,1955,1955,8,0.0,0,0,Average,Average,Average,Average,135500
+857,Above Average,1505,2,505,1505,1505,1,1953,1953,6,90.0,1,1024,Average,Average,Average,Excellent,149500
+858,Average,924,2,576,672,672,1,1949,2006,6,0.0,1,0,Average,Average,Average,Excellent,122900
+859,Above Average,1683,2,440,918,918,2,1978,1978,7,92.0,1,226,Average,Average,Average,Good,172500
+860,Above Average,1068,1,264,1059,1068,1,1963,2003,6,0.0,0,663,Average,Average,Average,Average,154500
+861,Average,1383,1,354,1383,1383,1,1954,1954,6,0.0,1,1064,Average,Average,Good,Average,165000
+862,Average,1535,2,400,0,1535,2,1979,1979,8,0.0,0,0,Average,Average,None,Average,118858
+863,Above Average,1796,2,483,780,983,1,1963,1963,8,415.0,1,400,Average,Average,Average,Average,140000
+864,Below Average,951,1,327,951,951,1,1936,1950,6,0.0,0,285,Average,Average,Average,Excellent,106500
+865,Average,1236,1,288,912,1236,1,1961,1994,6,0.0,1,465,Average,Average,Average,Average,135000
+866,Below Average,858,1,684,858,858,1,1971,1971,4,0.0,0,322,Average,Average,Average,Average,110000
+867,Average,1306,1,756,992,1306,1,1957,2000,5,0.0,0,860,Average,Average,Average,Average,153000
+868,Good,1509,2,393,783,807,2,2003,2003,8,0.0,1,0,Good,Good,Good,Excellent,180000
+869,Good,1670,3,690,1670,1670,2,2006,2006,7,27.0,1,0,Good,Good,Good,Excellent,240000
+870,Average,902,1,288,876,902,1,1967,1967,6,75.0,0,599,Average,Average,Average,Average,125500
+871,Average,1063,1,280,1056,1063,1,1954,1954,6,110.0,0,354,Average,Average,Average,Average,128000
+872,Very Good,1636,3,865,1623,1636,2,2006,2006,8,208.0,1,63,Good,Good,Good,Excellent,255000
+873,Good,2057,1,180,1017,1020,1,1936,1987,6,0.0,1,223,Good,Good,Good,Good,250000
+874,Average,902,2,484,864,902,1,1983,1983,5,0.0,0,301,Average,Average,Good,Average,131000
+875,Above Average,1484,2,390,742,742,2,2005,2005,8,0.0,1,0,Good,Good,Good,Excellent,174000
+876,Average,2274,2,480,1105,1105,2,1960,1960,12,361.0,0,443,Average,Average,Average,Average,154300
+877,Average,1268,1,252,1268,1268,1,1977,1989,5,0.0,0,196,Good,Average,Good,Average,143500
+878,Average,1015,1,450,768,1015,1,1925,1950,6,0.0,0,489,Average,Average,Average,Average,88000
+879,Average,2002,3,871,1001,1001,2,1949,1950,8,0.0,0,284,Average,Average,Average,Average,145000
+880,Above Average,1224,2,528,612,612,2,2009,2009,4,76.0,0,294,Good,Good,Good,Excellent,173733
+881,Below Average,1092,1,286,546,546,1,1970,1970,6,80.0,0,0,Average,Average,Average,Fair,75000
+882,Poor,480,1,308,480,480,0,1949,1950,4,0.0,0,50,Average,Average,Average,Average,35311
+883,Below Average,1229,1,284,1134,1229,1,1956,1956,6,0.0,0,1059,Average,Average,Average,Excellent,135000
+884,Good,2127,3,833,1104,912,2,1991,1991,8,0.0,1,48,Good,Good,Excellent,Excellent,238000
+885,Above Average,1414,2,601,1184,1414,1,1958,2002,6,0.0,1,528,Average,Excellent,Good,Excellent,176500
+886,Above Average,1721,2,471,928,936,2,1994,1994,7,105.0,0,814,Good,Good,Good,Excellent,201000
+887,Average,2200,0,0,1272,1272,2,1900,2003,9,0.0,0,1084,Average,Average,Average,Good,145900
+888,Above Average,1316,2,397,1316,1316,2,2005,2006,6,0.0,1,28,Good,Good,Good,Excellent,169990
+889,Above Average,1617,2,533,1604,1617,2,1993,1994,5,0.0,1,165,Good,Good,Good,Excellent,193000
+890,Above Average,1686,2,612,1686,1686,2,1980,1980,7,157.0,1,625,Average,Average,Good,Average,207500
+891,Average,1126,2,540,1126,1126,2,1977,1977,6,0.0,0,767,Excellent,Average,Good,Average,175000
+892,Very Good,2374,3,656,1181,1234,2,2003,2004,10,340.0,1,0,Excellent,Good,Good,Excellent,285000
+893,Good,1978,2,486,832,1098,2,1968,1968,9,342.0,1,552,Average,Average,Average,Good,176000
+894,Very Good,1788,2,522,1753,1788,2,2001,2001,7,0.0,1,0,Excellent,Good,Good,Excellent,236500
+895,Good,2236,2,642,964,993,2,1997,1997,8,285.0,1,0,Good,Average,Good,Good,222000
+896,Very Good,1466,3,610,1466,1466,2,2007,2007,7,0.0,0,16,Good,Good,Good,Excellent,201000
+897,Average,925,1,429,925,925,1,1965,1965,5,0.0,0,338,Average,Average,Average,Excellent,117500
+898,Excellent,1905,3,788,1905,1905,2,2006,2006,8,302.0,1,0,Excellent,Excellent,Excellent,Excellent,320000
+899,Good,1500,2,570,1500,1500,2,2004,2004,6,210.0,0,20,Good,Good,Good,Excellent,190000
+900,Good,2069,2,505,585,2069,2,1960,2007,9,0.0,1,425,Good,Average,Good,Excellent,242000
+901,Below Average,747,2,528,600,747,1,1926,1953,5,108.0,0,0,Average,Average,Fair,Good,79900
+902,Good,1200,2,555,1176,1200,2,2003,2003,5,0.0,0,833,Good,Good,Good,Excellent,184900
+903,Good,1971,2,689,1113,1113,2,2005,2005,8,0.0,1,341,Good,Good,Good,Excellent,253000
+904,Good,1962,3,868,1391,1391,2,2006,2006,7,0.0,0,464,Good,Good,Good,Excellent,239799
+905,Good,2403,1,349,1032,1207,2,1940,1950,10,0.0,2,0,Average,Average,Average,Excellent,244400
+906,Above Average,1728,2,574,1728,1728,2,1976,1976,8,0.0,0,936,Average,Average,Average,Average,150900
+907,Good,2060,2,390,992,1022,2,1999,1999,8,298.0,1,772,Good,Good,Good,Excellent,214000
+908,Below Average,1440,0,0,1440,1440,2,1977,1977,8,0.0,0,1440,Average,Average,Good,Average,150000
+909,Average,1632,2,576,1632,1632,2,1967,1967,8,0.0,0,0,Average,Average,Average,Average,143000
+910,Above Average,1344,2,525,819,1344,1,1958,1958,7,541.0,1,111,Good,Average,Average,Good,137500
+911,Average,1869,2,456,1088,1188,1,1890,1996,7,0.0,0,1088,Average,Average,Average,Average,124900
+912,Average,1144,1,796,1144,1144,1,1959,1959,6,128.0,1,748,Average,Average,Average,Average,143000
+913,Very Good,1629,3,808,1616,1629,2,2002,2003,9,236.0,1,1300,Good,Good,Good,Excellent,270000
+914,Good,1776,2,474,936,936,2,2002,2002,7,144.0,1,0,Good,Good,Good,Excellent,192500
+915,Above Average,1381,2,676,1161,1381,1,1972,2006,5,0.0,1,982,Good,Average,Average,Average,197500
+916,Average,864,2,720,864,864,1,1950,2002,5,0.0,0,398,Good,Average,Average,Good,129000
+917,Average,965,1,300,828,965,1,1965,1965,6,0.0,0,641,Average,Average,Average,Good,119900
+918,Average,768,1,396,768,768,1,1972,2003,5,0.0,0,660,Average,Average,Good,Good,133900
+919,Above Average,980,0,0,945,980,2,1975,1975,4,250.0,0,945,Average,Average,Good,Average,127500
+920,Above Average,1958,2,492,979,979,2,1946,1950,8,423.0,0,484,Average,Average,Good,Average,145000
+921,Above Average,1229,2,462,561,561,1,1980,1980,5,0.0,1,285,Average,Average,Good,Average,124000
+922,Average,1057,2,576,1057,1057,1,1962,1962,6,0.0,0,417,Average,Average,Average,Average,132000
+923,Good,1337,2,531,1337,1337,2,2003,2003,6,0.0,0,699,Good,Good,Good,Excellent,185000
+924,Good,1416,2,484,696,696,2,1999,1999,6,0.0,0,604,Good,Good,Good,Excellent,155000
+925,Average,858,0,0,858,858,1,1958,2008,4,0.0,0,696,Average,Average,Average,Good,116500
+926,Above Average,1548,2,440,804,804,2,1976,1976,7,0.0,1,556,Good,Average,Good,Average,155000
+927,Excellent,1800,2,702,1800,1800,2,2007,2007,7,0.0,0,0,Excellent,Good,Excellent,Excellent,239000
+928,Good,1894,2,510,817,824,2,2002,2003,8,44.0,1,624,Good,Good,Good,Excellent,214900
+929,Above Average,1484,2,393,783,783,2,2005,2007,8,0.0,1,0,Good,Good,Good,Excellent,178900
+930,Average,1308,1,256,728,976,1,1940,1950,7,0.0,2,428,Average,Good,Average,Excellent,160000
+931,Average,1098,1,260,1098,1098,1,1955,1955,6,151.0,0,902,Average,Average,Average,Average,135000
+932,Fair,968,0,0,600,600,1,1910,1950,6,0.0,0,0,Average,Average,Average,Fair,37900
+933,Above Average,1095,1,264,588,1095,1,1958,1958,6,105.0,0,513,Average,Average,Average,Average,140000
+934,Below Average,1192,0,0,720,720,1,1949,1950,6,0.0,0,0,Average,Average,Average,Average,135000
+935,Good,1626,2,474,764,764,2,2003,2004,6,106.0,0,567,Good,Good,Good,Excellent,173000
+936,Above Average,918,1,264,918,918,2,1979,1979,5,0.0,1,0,Average,Average,Good,Average,99500
+937,Good,1428,2,480,1428,1428,2,2007,2008,6,0.0,0,0,Good,Good,Good,Excellent,182000
+938,Good,2019,2,532,728,1136,1,1910,1993,8,0.0,0,0,Good,Average,Good,Average,167500
+939,Good,1382,2,490,673,673,2,2000,2000,6,0.0,0,641,Good,Good,Good,Excellent,165000
+940,Below Average,869,0,0,440,869,1,1923,1958,4,0.0,0,0,Fair,Average,Good,Average,85500
+941,Good,1241,2,569,1241,1241,1,2006,2007,4,0.0,0,1106,Good,Good,Good,Excellent,199900
+942,Below Average,894,2,400,894,894,1,1954,1954,5,0.0,0,552,Average,Average,Average,Excellent,110000
+943,Average,1121,2,480,1121,1121,1,1963,1963,5,0.0,0,651,Average,Average,Average,Average,139000
+944,Good,999,2,588,944,999,1,1961,2007,6,210.0,0,867,Excellent,Excellent,Average,Good,178400
+945,Very Good,2612,3,676,1225,1276,2,1998,1999,8,975.0,1,854,Good,Good,Good,Excellent,336000
+946,Good,1266,2,388,1266,1266,2,2007,2007,6,16.0,1,0,Good,Good,Good,Excellent,159895
+947,Very Good,2290,2,779,1128,1149,2,2002,2002,9,0.0,1,0,Good,Good,Good,Excellent,255900
+948,Average,1734,2,539,0,1302,2,1977,1977,8,0.0,0,0,Good,Average,None,Average,126000
+949,Average,1164,1,240,1164,1164,1,1950,1950,5,0.0,0,1040,Average,Average,Average,Average,125000
+950,Above Average,1635,1,255,485,1001,1,1910,2003,5,0.0,0,0,Good,Average,Average,Good,117000
+951,Excellent,1940,3,606,1930,1940,2,2009,2010,8,450.0,1,1646,Excellent,Excellent,Excellent,Excellent,395192
+952,Above Average,2030,2,551,848,1118,2,1976,1976,8,298.0,1,156,Good,Average,Average,Average,195000
+953,Good,1576,2,614,770,778,2,2006,2006,6,0.0,0,0,Good,Good,Good,Excellent,197000
+954,Very Good,2392,3,870,1396,1407,2,1997,1998,7,423.0,1,1074,Good,Good,Good,Excellent,348000
+955,Very Good,1742,2,424,916,916,1,1882,1986,8,0.0,1,216,Good,Good,Average,Good,168000
+956,Above Average,1851,2,440,822,1020,2,1964,1993,7,340.0,1,536,Good,Average,Average,Good,187000
+957,Above Average,1500,2,564,750,750,2,2005,2006,6,0.0,0,0,Good,Average,Good,Excellent,173900
+958,very Excellent,1718,3,786,1700,1718,2,2006,2007,7,230.0,1,1172,Excellent,Excellent,Excellent,Excellent,337500
+959,Below Average,1230,1,305,747,774,1,1946,1950,5,0.0,0,384,Average,Average,Average,Average,121600
+960,Average,1050,1,368,1050,1050,1,1961,1961,6,0.0,0,915,Average,Average,Average,Average,136500
+961,Above Average,1442,2,615,1442,1442,2,1970,1970,6,571.0,1,0,Average,Average,Average,Average,185000
+962,Fair,1077,1,210,1007,1077,1,1922,1950,6,0.0,1,0,Average,Average,Average,Fair,91000
+963,Good,1208,2,632,1187,1208,2,2006,2006,6,24.0,0,686,Good,Good,Good,Excellent,206000
+964,Fair,944,2,528,0,944,1,1952,1952,4,0.0,0,0,Fair,Average,None,Fair,82000
+965,Average,691,1,216,691,691,1,1920,1950,4,0.0,0,0,Excellent,Average,Fair,Excellent,86000
+966,Very Good,1574,3,824,1574,1574,2,2006,2006,7,53.0,1,24,Good,Good,Good,Excellent,232000
+967,Average,1680,2,528,1680,1680,2,1976,1976,8,164.0,0,0,Average,Average,Average,Fair,136905
+968,Good,1504,2,457,1346,1504,2,2005,2006,7,16.0,1,16,Good,Good,Good,Excellent,181000
+969,Average,985,1,328,985,985,2,1977,1977,6,220.0,0,595,Average,Good,Good,Average,149900
+970,Above Average,1657,2,484,1657,1657,2,1970,1970,7,0.0,1,1237,Average,Average,Good,Good,163500
+971,Below Average,1092,1,286,546,546,1,1970,1970,6,0.0,0,273,Average,Average,Average,Average,88000
+972,Good,1710,2,550,1710,1710,2,2004,2005,7,108.0,1,0,Good,Good,Excellent,Excellent,240000
+973,Average,1522,0,0,1008,1008,2,1926,1950,7,0.0,0,0,Average,Average,Average,Excellent,102000
+974,Average,1271,1,312,720,720,2,1948,1950,7,0.0,1,0,Average,Average,Average,Average,135000
+975,Average,1664,0,0,0,1664,2,1965,1965,8,0.0,0,0,Average,Average,None,Average,100000
+976,Above Average,1502,1,180,602,900,1,1923,1996,7,0.0,2,0,Good,Average,Average,Average,165000
+977,Average,1022,1,280,1022,1022,1,1910,2006,4,0.0,0,247,Average,Average,Average,Average,85000
+978,Above Average,1082,1,240,1082,1082,1,1948,1950,5,206.0,1,336,Average,Average,Average,Average,119200
+979,Very Good,1665,2,528,810,810,2,2001,2001,6,0.0,0,643,Good,Good,Good,Excellent,227000
+980,Good,1504,2,478,1504,1504,2,1996,1996,6,196.0,1,690,Good,Good,Good,Excellent,203000
+981,Very Good,1360,2,565,1220,1360,1,1984,1984,4,0.0,1,1036,Good,Good,Good,Good,187500
+982,Good,1472,2,402,384,802,2,1991,1992,7,76.0,1,0,Good,Good,Good,Good,160000
+983,Good,1506,2,440,1362,1506,2,2005,2005,6,145.0,1,16,Good,Good,Good,Excellent,213490
+984,Below Average,1132,2,451,1132,1132,1,2005,2005,5,0.0,0,1024,Good,Average,Good,Excellent,176000
+985,Good,1220,2,632,1199,1220,2,2006,2006,6,84.0,0,684,Good,Good,Good,Excellent,194000
+986,Average,1248,1,160,912,912,1,1930,1950,6,0.0,0,324,Average,Average,Average,Good,87000
+987,Good,1504,2,437,1346,1504,2,2005,2006,7,14.0,1,16,Good,Good,Good,Excellent,191000
+988,Average,882,2,461,882,882,1,1972,1972,5,0.0,0,138,Average,Average,Average,Average,112500
+989,Average,1264,2,461,1268,1264,1,1960,1960,6,324.0,2,697,Average,Average,Average,Average,167500
+990,Very Good,1646,3,800,1638,1646,2,2007,2008,7,338.0,1,1513,Good,Good,Good,Excellent,293077
+991,Average,1376,1,240,768,968,1,1941,1950,6,0.0,1,368,Average,Average,Average,Average,105000
+992,Above Average,1218,1,264,672,672,1,1972,1972,7,281.0,0,317,Average,Average,Average,Good,118000
+993,Very Good,2520,3,796,1338,1352,2,1993,1993,10,0.0,1,1012,Good,Good,Good,Excellent,310000
+994,Good,1654,3,900,1654,1654,2,2002,2002,6,295.0,0,986,Good,Good,Good,Excellent,230000
+995,Average,954,1,240,920,954,1,1938,1950,5,0.0,1,0,Fair,Average,Fair,Excellent,119750
+996,Below Average,845,1,290,0,845,1,1957,1957,5,0.0,0,0,Average,Average,None,Excellent,84000
+997,Excellent,1620,3,912,1620,1620,2,2007,2008,6,70.0,1,1022,Excellent,Good,Excellent,Excellent,315500
+998,Very Good,2263,2,905,1055,1055,2,2001,2002,7,396.0,1,0,Good,Good,Good,Excellent,287000
+999,Below Average,1344,0,0,546,798,1,1970,2008,6,0.0,1,0,Average,Average,Average,Average,97000
+1000,Below Average,630,1,286,630,630,1,1970,1970,3,0.0,0,509,Average,Average,Good,Average,80000
+1001,Average,1803,2,484,1134,1803,2,1957,2000,8,67.0,1,168,Average,Average,Average,Excellent,155000
+1002,Above Average,1632,2,484,800,800,1,1966,2000,7,252.0,0,400,Good,Average,Average,Good,173000
+1003,Above Average,1306,2,624,1306,1306,2,2005,2005,5,135.0,1,900,Good,Good,Good,Excellent,196000
+1004,Good,2329,2,514,1475,1532,2,1990,1990,10,99.0,1,1085,Good,Average,Good,Excellent,262280
+1005,Very Good,2524,2,542,2524,2524,2,1981,1981,9,0.0,1,1104,Good,Good,Good,Average,278000
+1006,Fair,1733,2,452,0,1733,2,1955,1955,8,0.0,1,0,Average,Average,None,Excellent,139600
+1007,Excellent,2868,3,716,1992,1992,3,2005,2006,11,208.0,1,240,Excellent,Good,Excellent,Excellent,556581
+1008,Average,990,2,672,990,990,1,1994,1995,5,0.0,0,686,Average,Average,Good,Excellent,145000
+1009,Average,1771,2,336,0,1771,1,1960,2006,9,75.0,1,0,Average,Average,None,Average,115000
+1010,Below Average,930,1,308,0,930,1,1946,2006,6,0.0,0,0,Good,Average,None,Excellent,84900
+1011,Good,1302,2,436,1302,1302,2,2007,2007,6,0.0,0,0,Good,Good,Good,Excellent,176485
+1012,Good,1316,2,440,1316,1316,2,2007,2007,6,0.0,1,0,Good,Good,Good,Excellent,200141
+1013,Above Average,1977,2,540,816,1127,1,1964,1978,9,272.0,1,442,Average,Average,Average,Average,165000
+1014,Average,1526,1,364,1216,1526,1,1957,2002,7,145.0,1,383,Average,Average,Average,Excellent,144500
+1015,Very Good,1989,2,586,1065,1091,2,2002,2002,7,210.0,1,932,Good,Good,Good,Excellent,255000
+1016,Above Average,1523,2,478,1193,1523,2,1976,1976,7,160.0,1,644,Average,Average,Good,Average,180000
+1017,Good,1364,2,484,1364,1364,2,2005,2005,6,240.0,1,659,Good,Good,Good,Excellent,185850
+1018,Good,1850,2,467,973,979,2,1994,1994,7,0.0,1,595,Good,Good,Good,Excellent,248000
+1019,Excellent,2184,3,836,1104,1130,2,2008,2008,10,154.0,1,936,Excellent,Excellent,Excellent,Excellent,335000
+1020,Above Average,1991,2,432,854,1096,1,1932,1950,7,480.0,1,297,Average,Average,Average,Average,220000
+1021,Very Good,1338,2,582,1338,1338,2,2001,2001,6,0.0,0,616,Good,Good,Good,Excellent,213500
+1022,Fair,894,3,1248,894,894,1,1935,1950,6,0.0,0,0,Average,Fair,Average,Average,81000
+1023,Average,2337,2,560,662,1422,2,1900,1950,10,0.0,0,0,Average,Average,Average,Average,90000
+1024,Above Average,1103,2,440,1103,1103,1,1925,1980,5,0.0,1,397,Good,Average,Average,Good,110500
+1025,Average,1154,2,480,1154,1154,1,1966,1966,6,200.0,1,740,Average,Average,Average,Excellent,154000
+1026,Good,2260,2,533,1306,1306,2,1996,1997,7,0.0,0,1201,Good,Good,Excellent,Excellent,328000
+1027,Above Average,1571,2,380,799,799,2,1993,1994,7,0.0,1,0,Average,Good,Good,Good,178000
+1028,Above Average,1611,2,442,780,798,1,1964,1964,7,360.0,0,674,Average,Average,Average,Average,167900
+1029,Above Average,2521,2,576,942,1291,2,1973,1973,10,0.0,1,837,Average,Average,Good,Good,151400
+1030,Average,893,2,576,845,893,1,1949,2003,4,0.0,0,220,Good,Average,Average,Average,135000
+1031,Average,1048,1,286,1048,1048,1,1956,1956,6,120.0,0,586,Average,Average,Average,Average,135000
+1032,Above Average,1556,2,441,727,829,1,1968,1968,8,0.0,0,298,Average,Average,Average,Excellent,154000
+1033,Average,1456,1,280,810,1002,1,1948,1950,7,0.0,1,0,Average,Average,Fair,Fair,91500
+1034,Above Average,1426,2,440,690,698,1,1977,1977,6,140.0,0,535,Average,Average,Average,Average,159500
+1035,Good,1240,3,826,1240,1240,2,2006,2006,5,0.0,0,0,Good,Good,Good,Excellent,194000
+1036,Good,1740,1,240,800,960,1,1940,1984,6,0.0,2,410,Average,Average,Average,Average,219500
+1037,Average,1096,1,299,1096,1096,1,1969,1969,6,0.0,0,75,Average,Average,Average,Excellent,138800
+1038,Above Average,848,2,420,848,848,1,2004,2004,3,169.0,1,662,Good,Good,Good,Excellent,155900
+1039,Average,990,1,299,990,990,1,1994,1994,5,0.0,0,495,Average,Average,Good,Good,126000
+1040,Above Average,1258,2,528,1258,1258,2,1971,2004,5,144.0,0,656,Good,Good,Average,Excellent,145000
+1041,Average,1040,1,308,1040,1040,1,1963,1963,5,0.0,0,824,Average,Average,Average,Fair,133000
+1042,Good,1459,2,527,1459,1459,2,2002,2002,6,100.0,1,0,Good,Good,Good,Excellent,192000
+1043,Above Average,1251,1,461,1251,1251,1,1964,1964,6,425.0,2,553,Average,Average,Average,Average,160000
+1044,Above Average,1498,2,409,691,691,2,1995,1996,6,0.0,1,592,Average,Average,Good,Good,187500
+1045,Above Average,996,2,564,936,996,1,1992,1992,5,0.0,0,747,Good,Average,Good,Excellent,147000
+1046,Below Average,1092,1,286,546,546,1,1973,1973,6,0.0,0,334,Average,Average,Average,Average,83500
+1047,Very Good,1953,3,1043,1082,1082,2,2005,2006,9,0.0,1,0,Good,Good,Good,Excellent,252000
+1048,Good,1709,2,380,970,970,2,2004,2004,7,50.0,0,0,Good,Good,Good,Excellent,137500
+1049,Very Good,1247,2,550,1247,1247,1,2005,2005,4,0.0,1,1039,Good,Good,Good,Excellent,197000
+1050,Fair,1040,2,400,0,1040,2,1950,1950,6,0.0,0,0,Average,Average,None,Fair,92900
+1051,Good,1252,2,462,600,624,2,1999,2000,4,212.0,0,510,Good,Good,Good,Excellent,160000
+1052,Above Average,1694,2,576,1181,1390,2,1925,1950,7,0.0,1,423,Average,Average,Average,Fair,136500
+1053,Average,1200,2,884,864,1200,1,1965,1998,6,166.0,0,661,Good,Average,Average,Good,146000
+1054,Average,936,1,308,936,936,1,1956,2000,4,0.0,0,248,Average,Average,Average,Excellent,129000
+1055,Above Average,1314,2,440,1314,1314,2,2006,2006,6,0.0,1,24,Good,Good,Good,Good,176432
+1056,Above Average,1355,0,0,684,773,1,1914,2006,7,0.0,0,0,Good,Average,Average,Average,127000
+1057,Very Good,1088,2,461,1074,1088,1,1986,1986,5,0.0,0,0,Good,Good,Good,Excellent,170000
+1058,Below Average,1324,1,240,672,757,1,1936,1950,6,0.0,0,672,Average,Average,Average,Average,128000
+1059,Good,1601,2,478,1271,1601,2,1978,1978,7,206.0,1,704,Average,Average,Good,Average,157000
+1060,Poor,438,1,246,290,438,1,1920,1950,3,0.0,0,290,Fair,Average,Average,Average,60000
+1061,Average,950,1,280,950,950,1,1971,1971,5,0.0,0,412,Average,Average,Average,Average,119500
+1062,Average,1134,1,254,1010,1134,1,1960,2002,6,45.0,0,588,Average,Average,Average,Excellent,135000
+1063,Above Average,1194,2,539,655,1194,1,1959,1959,6,0.0,1,655,Average,Average,Average,Excellent,159500
+1064,Average,1302,2,440,630,630,2,1970,1970,6,304.0,0,0,Average,Average,Average,Average,106000
+1065,Very Good,2622,2,712,1463,1500,2,1994,1995,9,362.0,2,1032,Good,Good,Excellent,Excellent,325000
+1066,Good,1442,2,719,910,1442,2,1990,1991,6,0.0,1,738,Good,Good,Good,Good,179900
+1067,Good,2021,2,422,868,887,2,2006,2006,9,0.0,1,0,Good,Good,Excellent,Excellent,274725
+1068,Above Average,1690,2,463,924,948,2,2000,2000,7,0.0,1,0,Average,Average,Good,Excellent,181000
+1069,Very Good,1836,3,862,1836,1836,2,2004,2005,7,42.0,1,1039,Good,Good,Excellent,Excellent,280000
+1070,Above Average,1658,2,431,773,773,2,1995,1996,8,0.0,1,219,Average,Average,Good,Good,188000
+1071,Good,1964,2,483,803,1098,2,1976,1976,8,660.0,1,403,Average,Average,Average,Average,205000
+1072,Average,816,1,308,816,816,1,1957,1957,5,0.0,0,708,Average,Average,Average,Average,129900
+1073,Average,1008,1,240,1008,1008,1,1953,2006,6,0.0,0,643,Good,Average,Average,Good,134500
+1074,Average,833,1,326,833,833,1,1954,2000,4,0.0,0,415,Good,Average,Average,Excellent,117000
+1075,Very Good,1734,3,928,1734,1734,2,2007,2007,7,328.0,1,1004,Excellent,Good,Excellent,Excellent,318000
+1076,Very Good,1419,2,527,408,779,2,2002,2002,7,0.0,1,353,Good,Good,Good,Excellent,184100
+1077,Average,894,2,450,894,894,1,1967,2003,5,0.0,0,702,Good,Average,Average,Excellent,130000
+1078,Average,1601,1,300,533,1021,1,1958,1987,6,0.0,0,0,Average,Average,Average,Average,140000
+1079,Average,1040,1,286,1040,1040,1,1959,1959,6,0.0,0,369,Average,Average,Average,Average,133700
+1080,Above Average,1012,1,308,1012,1012,1,1920,1950,6,0.0,1,0,Average,Average,Average,Average,118400
+1081,Good,1552,3,782,1552,1552,2,2005,2006,7,196.0,0,24,Good,Good,Good,Excellent,212900
+1082,Below Average,960,1,288,672,960,1,1956,1956,5,0.0,0,0,Average,Average,Average,Excellent,112000
+1083,Average,698,0,0,698,698,1,1947,2008,4,0.0,0,0,Average,Average,Average,Excellent,118000
+1084,Good,1482,2,392,384,812,2,1992,1992,7,170.0,1,0,Good,Average,Good,Good,163900
+1085,Below Average,1005,2,672,1005,1005,1,1955,1955,5,0.0,1,0,Fair,Average,Average,Average,115000
+1086,Good,1555,3,660,1373,1555,2,2007,2007,7,130.0,1,0,Good,Good,Good,Excellent,174000
+1087,Good,1530,3,630,1530,1530,2,2004,2004,7,0.0,1,1300,Good,Good,Good,Excellent,259000
+1088,Good,1959,2,434,847,847,2,2004,2005,8,0.0,1,0,Good,Good,Good,Excellent,215000
+1089,Average,936,2,672,936,936,1,1980,1980,4,180.0,0,936,Average,Average,Good,Average,140000
+1090,Below Average,1981,2,576,1122,1328,2,1928,1950,7,0.0,2,622,Good,Average,Average,Average,135000
+1091,Average,974,0,0,974,974,1,1991,1992,5,0.0,0,212,Average,Average,Good,Average,93500
+1092,Above Average,2210,1,205,1008,1178,2,1880,1950,8,0.0,0,0,Fair,Average,Average,Average,117500
+1093,Very Good,2020,2,466,1128,1142,2,1995,1995,8,0.0,1,584,Good,Good,Good,Excellent,239500
+1094,Above Average,1600,2,460,916,916,2,1997,1997,7,0.0,1,0,Average,Average,Good,Good,169000
+1095,Above Average,986,1,180,960,986,1,1926,1950,5,0.0,1,0,Average,Average,Average,Average,102000
+1096,Above Average,1252,1,288,1032,1032,1,1950,1950,6,0.0,0,280,Average,Average,Average,Average,119000
+1097,Average,1020,0,0,780,780,1,1875,1996,6,0.0,0,0,Average,Average,Average,Good,94000
+1098,Above Average,1567,2,714,1567,1567,2,1977,1977,5,0.0,2,1567,Good,Average,Average,Average,196000
+1099,Average,1167,2,495,915,1167,1,1920,1950,6,0.0,1,645,Average,Average,Average,Average,144000
+1100,Average,952,2,840,952,952,1,1951,1951,4,0.0,0,852,Average,Average,Average,Average,139000
+1101,Average,1868,2,484,780,1088,2,1976,1976,9,44.0,1,381,Good,Average,Average,Excellent,197500
+1102,Very Good,2828,3,1052,1466,1466,3,2006,2007,11,340.0,1,1150,Good,Good,Excellent,Excellent,424870
+1103,Average,1006,0,0,1006,1006,1,1959,1959,5,0.0,0,288,Average,Average,Average,Average,80000
+1104,Below Average,924,1,280,672,672,1,1941,1950,5,0.0,0,348,Fair,Average,Good,Fair,80000
+1105,Average,1576,1,225,1042,1042,1,1928,1950,8,0.0,1,0,Average,Average,Average,Excellent,149000
+1106,Above Average,1298,2,403,1298,1298,2,1985,1985,5,85.0,1,1258,Good,Good,Good,Average,180000
+1107,Good,1564,1,234,704,860,1,1941,1950,7,0.0,1,275,Fair,Average,Average,Excellent,174500
+1108,Good,1111,1,288,572,572,1,1926,1950,5,0.0,1,0,Average,Average,Average,Average,116900
+1109,Good,1482,2,324,650,832,1,1920,1988,7,0.0,0,624,Average,Average,Average,Excellent,143000
+1110,Above Average,932,1,306,932,932,1,1950,1950,4,0.0,1,0,Good,Average,Average,Excellent,124000
+1111,Average,1466,2,528,1466,1466,1,1959,1959,6,132.0,2,176,Fair,Average,Average,Average,149900
+1112,Above Average,1811,2,470,1073,1811,1,1956,2004,6,0.0,1,296,Excellent,Average,Average,Excellent,230000
+1113,Above Average,816,1,432,816,816,1,1930,2007,5,0.0,0,538,Average,Good,Average,Excellent,120500
+1114,Good,1820,2,492,864,902,1,1965,1988,8,288.0,2,454,Good,Average,Average,Average,201800
+1115,Average,1437,2,528,1437,1437,2,1976,2004,6,0.0,1,1157,Good,Good,Good,Average,218000
+1116,Average,1265,2,502,1219,1265,2,1965,1999,6,0.0,1,633,Good,Average,Average,Good,179900
+1117,Good,1314,2,626,1314,1314,2,2007,2008,6,166.0,1,904,Good,Good,Good,Excellent,230000
+1118,Very Good,1580,3,830,1580,1580,2,2007,2008,7,186.0,0,0,Good,Good,Good,Excellent,235128
+1119,Above Average,1876,2,540,901,943,2,1974,1974,8,270.0,1,442,Good,Good,Average,Average,185000
+1120,Above Average,1456,2,440,855,855,2,1978,1978,7,0.0,1,311,Average,Average,Good,Fair,146000
+1121,Above Average,1640,2,924,1296,1640,1,1954,2006,7,72.0,1,728,Good,Good,Average,Excellent,224000
+1122,Average,894,2,450,894,894,1,1968,1968,5,0.0,1,492,Average,Average,Good,Good,129000
+1123,Below Average,1258,2,400,1198,1258,0,1969,1969,6,0.0,0,1198,Average,Average,Good,Average,108959
+1124,Average,1432,2,588,1360,1432,1,1978,1978,5,0.0,1,680,Good,Average,Good,Excellent,194000
+1125,Good,1502,2,644,1502,1502,2,2009,2009,7,268.0,0,0,Good,Good,Good,Excellent,233170
+1126,Very Good,1694,3,776,1694,1694,2,2008,2008,7,72.0,0,0,Good,Good,Good,Excellent,245350
+1127,Above Average,1671,2,472,959,959,2,2000,2000,7,0.0,1,786,Average,Average,Good,Excellent,173000
+1128,Above Average,2108,2,540,1127,1236,2,1935,1986,7,0.0,2,626,Good,Average,Average,Excellent,235000
+1129,very Excellent,3627,3,807,1930,1831,3,1995,1996,10,1378.0,1,1387,Good,Good,Excellent,Excellent,625000
+1130,Above Average,1118,1,358,1096,1118,1,1977,1977,6,0.0,1,522,Average,Average,Average,Average,171000
+1131,Above Average,1261,2,433,1261,1261,1,1958,1958,6,0.0,1,662,Average,Average,Average,Excellent,163000
+1132,Good,1250,2,625,625,625,2,2006,2007,5,0.0,0,0,Good,Good,Good,Excellent,171900
+1133,Above Average,2345,2,360,952,1170,2,1932,1950,9,0.0,1,503,Average,Average,Good,Average,239000
+1134,Very Good,2872,2,541,1683,2129,2,1992,2000,9,337.0,1,700,Good,Good,Good,Excellent,285000
+1135,Average,923,1,264,876,923,1,1984,1985,5,0.0,0,658,Average,Average,Average,Average,119500
+1136,Above Average,1224,1,210,818,818,1,1926,2004,5,0.0,0,468,Average,Average,Average,Average,115000
+1137,Average,1343,1,186,731,820,1,1921,1950,7,0.0,1,0,Average,Average,Average,Excellent,154900
+1138,Average,1124,0,0,0,1124,1,1954,1954,5,0.0,1,0,Average,Average,None,Good,93000
+1139,Good,2514,2,693,1216,1298,2,1990,1991,8,0.0,0,1216,Average,Average,Good,Excellent,250000
+1140,Very Good,1652,2,482,1600,1652,2,2008,2008,5,186.0,1,1480,Good,Excellent,Excellent,Excellent,392500
+1141,Average,1130,2,720,1120,1130,1,1920,1950,5,0.0,1,821,Average,Average,Average,Excellent,120000
+1142,Average,1221,1,392,784,949,1,1924,1950,7,0.0,0,392,Average,Average,Average,Good,104900
+1143,Fair,1699,2,420,978,1014,2,1900,1970,7,0.0,0,440,Average,Average,Fair,Average,95000
+1144,Very Good,1624,3,757,1624,1624,2,1994,1995,5,0.0,1,1456,Good,Good,Good,Excellent,262000
+1145,Good,1660,2,493,831,831,2,2002,2002,7,95.0,0,0,Good,Good,Good,Excellent,195000
+1146,Good,1804,2,442,994,1028,2,1999,1999,7,0.0,1,0,Good,Average,Average,Good,189000
+1147,Very Good,1441,2,492,776,764,2,1999,2000,5,456.0,0,0,Good,Good,Good,Excellent,174000
+1148,Average,1472,1,250,702,842,1,1925,1994,6,0.0,0,0,Good,Average,Average,Good,125000
+1149,Above Average,1224,2,402,1224,1224,2,1999,1999,5,425.0,0,883,Average,Average,Excellent,Excellent,165000
+1150,Above Average,1352,1,299,663,663,1,1969,1969,7,143.0,0,371,Average,Average,Average,Average,158000
+1151,Above Average,1456,2,400,728,728,2,2005,2005,8,0.0,0,0,Good,Average,Good,Excellent,176000
+1152,Good,1863,3,660,879,879,2,2006,2006,9,0.0,1,0,Good,Good,Good,Excellent,219210
+1153,Good,1690,1,225,815,815,1,1916,1950,7,0.0,1,0,Average,Average,Average,Excellent,144000
+1154,Good,1212,2,573,1212,1212,2,2001,2001,6,0.0,0,0,Good,Good,Good,Excellent,178000
+1155,Below Average,1382,2,459,1051,1382,1,1963,1979,6,51.0,1,547,Average,Average,Average,Good,148000
+1156,Below Average,864,1,280,864,864,1,1970,1970,5,0.0,0,0,Average,Average,Average,Good,116050
+1157,Good,1779,2,546,866,866,2,1998,1998,6,0.0,0,0,Good,Average,Good,Excellent,197900
+1158,Average,1348,1,216,884,884,1,1925,1997,5,0.0,1,0,Average,Average,Average,Excellent,117000
+1159,Good,1630,2,451,1630,1630,2,2000,2001,6,171.0,1,0,Good,Good,Good,Excellent,213000
+1160,Average,1074,2,495,1056,1074,1,1975,1975,6,0.0,0,788,Average,Average,Good,Excellent,153500
+1161,Good,2196,3,701,2158,2196,2,1990,1991,7,234.0,1,485,Good,Good,Good,Good,271900
+1162,Below Average,1056,1,384,1056,1056,1,1966,1966,5,0.0,0,1056,Average,Average,Average,Average,107000
+1163,Above Average,1700,2,544,1682,1700,2,2003,2003,7,120.0,0,340,Good,Good,Good,Excellent,200000
+1164,Average,1283,2,506,931,1283,1,1962,1980,6,0.0,0,504,Average,Average,Average,Average,140000
+1165,Very Good,1660,2,500,1660,1660,2,2006,2006,8,420.0,1,1220,Good,Good,Excellent,Excellent,290000
+1166,Above Average,1845,2,462,1055,1055,2,1992,1992,8,0.0,1,0,Good,Good,Good,Excellent,189000
+1167,Very Good,1752,2,492,559,1080,2,1988,2005,8,0.0,0,427,Average,Good,Good,Good,164000
+1168,Below Average,672,1,234,672,672,1,1941,1950,4,0.0,0,344,Average,Average,Average,Average,113000
+1169,Below Average,960,1,364,648,960,0,1965,2001,3,0.0,0,648,Average,Average,Average,Excellent,145000
+1170,Average,999,1,300,925,999,1,1962,1962,6,0.0,0,784,Average,Average,Average,Average,134500
+1171,Average,894,1,384,894,894,1,1966,1966,5,0.0,0,180,Average,Average,Average,Average,125000
+1172,Above Average,1902,2,539,0,1318,2,1978,1978,8,0.0,0,0,Average,Average,None,Average,112000
+1173,Very Good,1314,2,552,1300,1314,2,2009,2009,6,72.0,0,936,Good,Good,Good,Excellent,229456
+1174,Below Average,912,0,0,0,672,1,1947,1950,3,0.0,0,0,Average,Average,None,Good,80500
+1175,Above Average,1218,0,0,672,672,1,1971,1971,7,236.0,0,0,Average,Average,Average,Average,91500
+1176,Average,912,1,288,912,912,1,1964,1964,5,0.0,0,312,Average,Average,Average,Average,115000
+1177,Average,1211,1,322,952,1211,1,1968,1968,5,0.0,1,250,Average,Average,Average,Excellent,134000
+1178,Above Average,1846,1,315,1040,1168,2,1949,1950,7,320.0,1,196,Average,Average,Average,Excellent,143000
+1179,Average,2136,2,528,2136,2136,2,1951,1951,7,44.0,0,756,Average,Average,Average,Average,137900
+1180,Good,1490,2,388,788,788,2,2004,2005,8,0.0,1,724,Good,Good,Good,Excellent,184000
+1181,Above Average,1138,1,264,588,1138,1,1958,1958,6,63.0,0,507,Average,Average,Average,Excellent,145000
+1182,Above Average,1933,3,668,894,894,2,2007,2007,9,74.0,1,0,Good,Good,Good,Excellent,214000
+1183,Average,912,2,576,912,912,1,1965,2008,5,300.0,0,595,Good,Average,Average,Excellent,147000
+1184,Excellent,1702,3,1052,1702,1702,1,2008,2008,7,766.0,1,1540,Excellent,Excellent,Excellent,Excellent,367294
+1185,Average,1507,1,404,1075,1507,2,1960,1960,7,0.0,0,666,Average,Average,Average,Good,127000
+1186,Average,1190,2,540,1106,1190,1,1962,1962,6,120.0,0,803,Average,Average,Average,Average,132500
+1187,Below Average,1224,2,462,0,1224,2,1962,1962,6,0.0,0,0,Average,Average,None,Average,101800
+1188,Average,1188,2,531,1188,1188,1,1959,1959,6,180.0,0,1000,Average,Average,Average,Fair,142000
+1189,Average,1964,0,0,940,1024,1,1911,1950,7,0.0,0,0,Average,Average,Average,Average,130000
+1190,Average,1784,1,180,747,892,1,1914,1950,9,0.0,0,0,Average,Average,Good,Good,138887
+1191,Good,1626,2,474,764,764,2,2003,2003,6,106.0,0,0,Good,Good,Good,Excellent,175500
+1192,Good,1948,2,434,847,847,2,2004,2005,8,0.0,1,0,Good,Good,Good,Excellent,195000
+1193,Above Average,1141,2,484,1141,1141,1,2005,2005,6,0.0,0,0,Average,Good,Good,Excellent,142500
+1194,Very Good,1484,2,472,1476,1484,2,2006,2006,6,32.0,1,428,Excellent,Good,Good,Excellent,265900
+1195,Good,1768,2,543,884,884,2,2003,2003,8,252.0,0,550,Good,Good,Good,Excellent,224900
+1196,Good,1689,3,954,1689,1689,2,2007,2007,7,0.0,0,0,Good,Good,Good,Excellent,248328
+1197,Good,1173,2,528,1053,1173,2,1974,1974,6,81.0,2,885,Good,Average,Good,Average,170000
+1198,very Excellent,2076,3,850,2076,2076,2,2006,2006,7,0.0,1,1386,Excellent,Excellent,Excellent,Excellent,465000
+1199,Very Good,1517,2,400,792,792,1,1929,1950,7,0.0,2,0,Good,Average,Good,Fair,230000
+1200,Above Average,1868,2,477,585,1140,3,1984,2003,7,74.0,1,0,Average,Average,Good,Excellent,178000
+1201,Good,1553,2,615,756,756,2,2005,2006,6,0.0,0,0,Good,Good,Good,Excellent,186500
+1202,Above Average,1034,3,888,1012,1034,1,1976,1976,6,335.0,0,539,Average,Average,Average,Average,169900
+1203,Above Average,2058,2,396,735,1134,1,1917,1950,8,0.0,1,319,Average,Average,Good,Fair,129500
+1204,Average,988,1,276,876,988,1,1950,1950,6,0.0,0,534,Average,Average,Average,Average,119000
+1205,Good,2110,2,522,2110,2110,2,1968,1968,8,0.0,2,1065,Excellent,Good,Average,Excellent,244000
+1206,Good,1405,2,478,1405,1405,2,2003,2003,6,163.0,1,0,Good,Good,Good,Excellent,171750
+1207,Average,874,1,288,864,874,1,1968,1968,5,0.0,0,510,Average,Average,Average,Average,130000
+1208,Good,2167,2,518,1192,1516,2,1974,2003,9,0.0,2,125,Good,Good,Average,Average,294000
+1209,Good,1656,2,397,746,760,2,2003,2004,7,92.0,1,0,Good,Good,Good,Excellent,165400
+1210,Above Average,1367,1,560,884,959,1,1931,1950,6,0.0,1,425,Average,Average,Average,Average,127500
+1211,Very Good,1987,2,691,1986,1987,2,1994,1994,7,554.0,1,1314,Good,Good,Good,Excellent,301500
+1212,Average,864,0,0,864,864,1,1922,1950,4,0.0,0,0,Average,Average,Fair,Excellent,99900
+1213,Good,1166,2,400,856,1166,2,2005,2005,5,182.0,0,655,Good,Good,Good,Excellent,190000
+1214,Above Average,1054,2,460,1054,1054,1,1969,1969,6,0.0,0,602,Average,Average,Good,Good,151000
+1215,Above Average,1675,2,502,841,892,2,1999,1999,7,0.0,1,0,Average,Average,Good,Excellent,181000
+1216,Average,1050,1,338,1050,1050,1,1956,1956,5,0.0,0,504,Average,Average,Average,Good,128900
+1217,Below Average,1788,1,304,1104,1104,1,1957,1989,8,0.0,2,0,Average,Average,Average,Excellent,161500
+1218,Above Average,1824,2,520,764,1060,1,1919,1950,8,0.0,1,0,Average,Average,Average,Excellent,180500
+1219,Above Average,1337,2,511,1405,1337,2,1998,1999,5,0.0,0,266,Good,Good,Good,Excellent,181000
+1220,Good,1452,2,506,691,713,2,1999,1999,6,218.0,0,450,Good,Good,Good,Excellent,183900
+1221,Good,1889,1,308,925,964,1,1910,1950,9,0.0,1,0,Average,Fair,Average,Average,122000
+1222,Excellent,2018,3,746,2002,2018,2,2008,2009,10,0.0,1,0,Excellent,Excellent,Excellent,Excellent,378500
+1223,Average,1524,1,315,874,874,1,1958,1958,7,180.0,0,460,Average,Average,Average,Average,144000
+1224,Good,1524,2,586,1332,1332,0,1979,1979,4,0.0,1,1258,Good,Good,Good,Average,260000
+1225,Above Average,1489,2,462,1489,1489,2,1968,1968,7,0.0,1,0,Good,Average,Average,Good,185750
+1226,Average,935,1,288,935,935,1,1965,1965,5,114.0,0,560,Average,Average,Average,Average,137000
+1227,Above Average,1357,1,312,1019,1357,1,1959,2006,5,84.0,1,719,Excellent,Average,Average,Good,177000
+1228,Average,1250,2,552,661,661,2,1910,2003,8,0.0,1,0,Average,Average,Average,Excellent,139000
+1229,Average,1920,2,400,928,928,2,1948,1950,10,567.0,0,220,Average,Average,Average,Good,137000
+1230,Above Average,1395,2,497,723,735,1,1972,1972,6,0.0,1,593,Average,Average,Average,Average,162000
+1231,Above Average,1724,2,480,1680,1724,1,1967,1976,7,359.0,1,528,Average,Average,Good,Fair,197900
+1232,Very Good,2031,2,577,1128,1128,2,2002,2002,7,0.0,1,804,Good,Good,Good,Excellent,237000
+1233,Below Average,1128,2,528,698,698,1,1920,1950,6,0.0,0,0,Average,Average,Average,Average,68400
+1234,Good,1573,2,544,1573,1573,2,2002,2002,6,110.0,0,788,Good,Good,Good,Excellent,227000
+1235,Good,1339,2,484,1309,1339,2,1990,1990,6,54.0,1,1053,Average,Average,Good,Average,180000
+1236,Average,1040,2,484,1040,1040,2,1977,2008,5,0.0,0,532,Good,Average,Good,Average,150500
+1237,Above Average,1824,0,0,912,912,2,1971,1971,8,0.0,0,0,Average,Average,Average,Average,139000
+1238,Above Average,2447,1,336,804,1699,2,1919,1990,10,0.0,1,0,Good,Average,Average,Excellent,169000
+1239,Above Average,1412,1,280,780,825,1,1939,1950,6,0.0,1,0,Average,Average,Average,Excellent,132500
+1240,Above Average,1328,2,528,1328,1328,1,1963,1963,6,451.0,2,569,Average,Average,Average,Average,143000
+1241,Average,1582,2,390,1624,1582,2,1964,1964,7,621.0,0,812,Average,Average,Average,Fair,190000
+1242,Very Good,1659,2,499,1501,1659,2,2000,2000,5,0.0,1,1158,Excellent,Good,Good,Excellent,278000
+1243,Very Good,1970,3,753,1085,1120,2,2006,2006,8,788.0,1,0,Excellent,Good,Good,Excellent,281000
+1244,Average,1152,2,484,1152,1152,1,1964,1964,6,86.0,1,1014,Average,Average,Average,Average,180500
+1245,Average,1302,1,264,630,630,2,1972,1972,6,268.0,0,231,Average,Average,Average,Average,119500
+1246,Average,2372,1,432,994,1378,2,1892,1965,11,0.0,0,0,Average,Average,Average,Average,107500
+1247,Good,1664,2,528,832,832,2,1976,1976,8,0.0,1,194,Average,Average,Good,Average,162900
+1248,Average,864,2,572,864,864,1,1955,1990,5,0.0,0,167,Average,Average,Average,Average,115000
+1249,Average,1052,1,288,1052,1052,1,1968,1968,5,168.0,0,1016,Average,Average,Average,Good,138500
+1250,Average,1128,2,525,1120,1128,2,1963,1963,6,148.0,0,776,Average,Average,Average,Good,155000
+1251,Above Average,1072,2,525,547,1072,2,2005,2006,5,82.0,0,547,Average,Average,Good,Good,140000
+1252,Average,1246,1,305,1246,1246,1,1959,1994,6,0.0,0,340,Good,Average,Average,Excellent,154000
+1253,Good,1983,2,490,978,1005,2,1999,1999,9,344.0,1,694,Good,Good,Good,Excellent,225000
+1254,Above Average,1494,1,213,771,753,1,1942,1950,7,0.0,2,547,Good,Average,Average,Fair,177500
+1255,Very Good,2526,3,844,1165,1203,2,1994,1994,8,391.0,1,740,Good,Good,Good,Excellent,290000
+1256,Good,1616,3,834,1616,1616,2,2005,2005,7,228.0,0,0,Good,Good,Good,Excellent,232000
+1257,Good,1708,2,380,976,976,2,2004,2004,7,117.0,0,0,Good,Good,Good,Excellent,130000
+1258,Excellent,1652,2,840,1652,1652,2,2006,2007,6,300.0,2,1572,Excellent,Good,Excellent,Excellent,325000
+1259,Good,1368,2,474,1368,1368,2,2005,2006,6,94.0,1,0,Good,Good,Good,Excellent,202500
+1260,Average,990,2,480,990,990,1,1994,1995,5,0.0,0,746,Average,Average,Good,Excellent,138000
+1261,Average,1122,2,528,924,1122,1,1948,2005,6,0.0,0,144,Good,Average,Average,Excellent,147000
+1262,Above Average,1294,2,496,1278,1294,2,1991,1991,6,88.0,0,1200,Good,Average,Good,Good,179200
+1263,Good,1902,2,567,1902,1902,2,1959,2002,7,0.0,2,1406,Excellent,Good,Good,Average,335000
+1264,Good,1274,2,508,1274,1274,2,2005,2007,6,80.0,0,925,Good,Good,Good,Excellent,203000
+1265,Very Good,2810,2,750,1453,1453,2,1990,1990,9,336.0,1,482,Good,Good,Excellent,Excellent,302000
+1266,Excellent,2599,3,779,1393,1422,2,1999,1999,10,165.0,1,0,Good,Good,Good,Excellent,333168
+1267,Below Average,948,1,280,948,948,1,1954,1954,5,0.0,1,732,Average,Average,Average,Excellent,119000
+1268,Above Average,2112,2,576,952,1092,2,1969,1969,9,0.0,2,500,Average,Average,Fair,Average,206900
+1269,Very Good,1630,3,860,1622,1630,2,2008,2008,8,270.0,1,0,Excellent,Good,Excellent,Excellent,295493
+1270,Good,1352,2,466,1352,1352,2,2006,2007,5,0.0,1,0,Good,Good,Excellent,Excellent,208900
+1271,Very Good,1787,3,748,1753,1787,2,2001,2002,7,178.0,1,0,Good,Good,Good,Excellent,275000
+1272,Below Average,948,1,248,864,948,1,1954,1954,5,132.0,0,492,Average,Average,Average,Excellent,111000
+1273,Above Average,1478,2,442,1478,1478,1,1957,1957,6,0.0,2,189,Average,Average,Average,Good,156500
+1274,Fair,720,1,287,0,720,1,1949,1950,4,0.0,0,0,Average,Average,None,Average,72500
+1275,Good,1923,2,564,750,1061,2,1992,1992,8,0.0,1,674,Good,Good,Good,Excellent,190000
+1276,Below Average,708,0,0,420,708,1,1940,1950,5,0.0,0,280,Fair,Fair,Average,Good,82500
+1277,Very Good,1795,3,895,1795,1795,2,2006,2007,7,428.0,1,0,Good,Good,Excellent,Excellent,147000
+1278,Below Average,796,0,0,796,796,1,1922,1950,5,0.0,0,0,Average,Average,Average,Fair,55000
+1279,Fair,774,0,0,544,774,1,1931,2006,6,0.0,0,544,Good,Average,Average,Excellent,79000
+1280,Average,816,1,264,816,816,1,1982,2008,5,0.0,1,641,Good,Good,Average,Excellent,130500
+1281,Good,1632,2,462,935,955,2,1998,1998,8,0.0,1,0,Average,Average,Good,Good,176500
+1282,Very Good,1588,3,825,1588,1588,2,2006,2006,7,410.0,1,0,Good,Good,Good,Excellent,227000
+1283,Average,954,2,576,911,954,1,1976,1976,6,0.0,0,483,Average,Average,Average,Good,132500
+1284,Below Average,816,1,288,816,816,1,1938,1958,3,0.0,1,690,Average,Average,Average,Excellent,100000
+1285,Average,1360,1,297,803,803,1,1938,1995,6,0.0,0,0,Good,Average,Average,Excellent,125500
+1286,Average,1365,2,440,765,765,1,1970,1970,7,312.0,0,765,Average,Average,Average,Average,125000
+1287,Above Average,1334,2,630,1350,1334,2,1977,1977,6,360.0,1,686,Average,Average,Good,Average,167900
+1288,Average,1656,2,506,1656,1656,2,1973,1973,8,564.0,0,0,Average,Average,Average,Average,135000
+1289,Below Average,693,0,0,693,693,1,1941,1950,4,0.0,0,0,Fair,Average,Average,Fair,52500
+1290,Good,1861,2,492,916,920,2,2002,2002,8,0.0,0,700,Good,Good,Good,Excellent,200000
+1291,Average,864,1,288,864,864,1,1972,1972,5,0.0,0,360,Average,Average,Average,Excellent,128500
+1292,Below Average,872,4,480,858,872,1,1971,1971,5,0.0,0,0,Average,Average,Average,Average,123000
+1293,Above Average,1114,2,576,1114,1114,1,2003,2004,6,0.0,0,814,Good,Average,Good,Excellent,155000
+1294,Very Good,2169,2,647,1284,1284,2,2002,2002,7,149.0,1,0,Good,Good,Good,Excellent,228500
+1295,Above Average,1913,2,342,896,1172,1,1928,1950,9,0.0,1,0,Average,Average,Average,Good,177000
+1296,Good,1456,2,440,728,728,2,2006,2006,8,0.0,1,0,Good,Good,Good,Excellent,155835
+1297,Below Average,960,1,308,960,960,1,1920,1950,5,0.0,0,250,Fair,Average,Average,Good,108500
+1298,Very Good,1776,3,712,1732,1776,2,2006,2007,7,100.0,1,80,Good,Good,Excellent,Excellent,283463
+1299,Good,1494,2,514,1482,1494,2,1998,1998,5,0.0,1,1443,Good,Good,Good,Excellent,215000
+1300,Very Good,2358,0,0,684,938,2,1872,1987,8,0.0,0,259,Average,Average,Average,Fair,122000
+1301,Above Average,1716,2,490,858,858,1,1962,1962,8,318.0,1,319,Average,Average,Average,Excellent,171000
+1302,Above Average,1176,2,624,698,786,1,1937,2000,4,0.0,0,0,Average,Good,Average,Average,134900
+1303,Very Good,3238,3,666,2033,2053,2,1995,1996,9,579.0,1,816,Good,Good,Good,Excellent,410000
+1304,Good,1865,3,839,992,992,2,2000,2000,7,0.0,1,735,Good,Good,Good,Excellent,235000
+1305,Good,1920,2,487,570,1222,3,1968,1992,8,143.0,1,0,Good,Average,Average,Good,170000
+1306,Average,892,1,264,864,892,1,1966,1966,5,65.0,0,340,Average,Average,Average,Average,110000
+1307,Average,1078,2,500,1078,1078,1,1971,2008,6,0.0,1,734,Average,Average,Average,Excellent,149900
+1308,Above Average,1573,2,440,756,769,2,2000,2000,5,216.0,0,378,Good,Good,Good,Excellent,177500
+1309,Excellent,1980,3,770,1980,1980,2,2004,2005,8,66.0,1,1447,Excellent,Good,Excellent,Excellent,315000
+1310,Average,2601,2,621,612,990,3,1921,1998,8,0.0,0,0,Average,Average,Average,Excellent,189000
+1311,Good,1530,2,430,1530,1530,2,2005,2005,7,16.0,1,1274,Good,Good,Excellent,Excellent,260000
+1312,Below Average,1738,1,368,715,1281,2,1920,2007,7,0.0,1,0,Average,Average,Average,Good,104900
+1313,Above Average,1412,2,432,616,616,2,2006,2007,6,0.0,1,0,Good,Average,Good,Excellent,156932
+1314,Good,1200,2,480,600,520,2,2005,2005,4,0.0,0,0,Good,Good,Good,Excellent,144152
+1315,Good,1674,2,663,814,814,2,2000,2000,7,0.0,0,533,Good,Good,Good,Excellent,216000
+1316,Good,1790,2,588,873,882,2,1999,1999,7,158.0,0,633,Good,Good,Good,Excellent,193000
+1317,Average,1475,1,336,757,925,2,1977,1977,6,0.0,1,548,Average,Average,Average,Excellent,127000
+1318,Above Average,848,2,420,848,848,1,2003,2004,4,170.0,0,685,Good,Good,Good,Excellent,144000
+1319,Very Good,1668,2,502,1657,1668,2,2003,2003,8,171.0,1,370,Good,Good,Good,Excellent,232000
+1320,Below Average,1374,1,338,840,840,1,1920,1950,6,0.0,0,315,Average,Fair,Average,Excellent,105000
+1321,Above Average,1661,1,377,992,1661,1,1955,1996,8,0.0,1,831,Good,Average,Average,Good,165500
+1322,Good,2097,2,583,1108,1108,2,1998,1998,8,0.0,1,975,Good,Average,Good,Excellent,274300
+1323,very Excellent,2633,3,804,2633,2633,2,2001,2002,8,705.0,2,1282,Excellent,Excellent,Excellent,Excellent,466500
+1324,Good,1958,3,936,1026,1026,2,2005,2005,9,0.0,1,0,Good,Good,Good,Excellent,250000
+1325,Very Good,1571,3,722,1571,1571,2,2007,2007,7,80.0,1,0,Good,Good,Good,Excellent,239000
+1326,Above Average,790,1,160,768,790,1,1930,1950,4,0.0,0,384,Average,Average,Good,Average,91000
+1327,Average,1604,2,660,984,984,2,1941,1960,6,0.0,0,408,Average,Average,Average,Excellent,117000
+1328,Above Average,987,1,264,483,483,1,1973,1973,5,408.0,0,309,Average,Average,Average,Average,83000
+1329,Fair,864,1,200,864,864,1,1914,1950,5,0.0,0,203,Average,Average,Average,Average,58500
+1330,Above Average,2117,2,550,1205,2117,2,1970,1970,7,0.0,2,865,Average,Average,Average,Excellent,237500
+1331,Good,1762,2,576,596,998,1,1920,1950,8,0.0,0,0,Good,Average,Fair,Excellent,157000
+1332,Average,1416,2,576,816,1416,2,1918,2007,7,0.0,0,0,Good,Average,Average,Excellent,112000
+1333,Above Average,1258,1,280,560,698,1,1939,1950,6,0.0,0,204,Average,Average,Average,Average,105000
+1334,Below Average,1154,1,240,796,796,1,1922,2007,7,0.0,0,735,Good,Average,Average,Good,125500
+1335,Above Average,2526,1,216,714,1664,2,1916,1950,10,0.0,1,168,Good,Average,Average,Average,136000
+1336,Excellent,1746,3,758,1746,1746,2,2006,2007,7,160.0,2,1320,Excellent,Excellent,Excellent,Excellent,377500
+1337,Above Average,1218,2,440,735,869,1,1941,1950,6,0.0,1,375,Average,Average,Average,Excellent,131000
+1338,Good,1525,2,541,1525,1525,2,2000,2000,6,244.0,0,1400,Good,Good,Good,Excellent,235000
+1339,Average,1584,3,792,1584,1584,2,1967,1967,8,0.0,0,0,Average,Average,Average,Average,124000
+1340,Average,900,1,288,864,900,1,1967,1967,6,0.0,1,769,Average,Average,Average,Average,123000
+1341,Above Average,1912,2,672,482,1221,2,1905,2000,7,0.0,1,0,Average,Average,Fair,Excellent,163000
+1342,Good,1500,3,648,1356,1500,2,2006,2006,6,45.0,1,1070,Good,Good,Good,Excellent,246578
+1343,Very Good,2482,3,642,1094,1133,2,2005,2006,9,245.0,1,0,Good,Good,Good,Excellent,281213
+1344,Average,1687,2,572,747,1687,1,1948,1950,7,0.0,2,353,Average,Average,Average,Average,160000
+1345,Average,1513,1,180,939,939,1,1920,2004,8,0.0,0,0,Average,Average,Average,Excellent,137500
+1346,Average,1904,1,240,1208,1136,1,1950,1982,7,0.0,0,180,Average,Average,Average,Good,138000
+1347,Above Average,1608,1,216,976,1160,2,1925,1990,7,0.0,1,264,Good,Average,Average,Excellent,137450
+1348,Above Average,1158,1,208,862,950,1,1929,1950,5,0.0,1,0,Average,Average,Average,Average,120000
+1349,Above Average,1593,2,398,839,864,2,2004,2004,8,0.0,1,759,Average,Average,Average,Excellent,193000
+1350,Good,1294,2,662,1286,1294,2,2006,2006,6,0.0,1,0,Good,Good,Good,Excellent,193879
+1351,Very Good,1464,3,754,1485,1464,2,2007,2007,6,84.0,0,929,Good,Good,Good,Excellent,282922
+1352,Fair,1214,3,936,672,694,1,1915,1950,6,0.0,0,0,Average,Average,Average,Average,105000
+1353,Very Good,1646,2,482,1594,1646,2,2004,2005,5,174.0,1,1373,Good,Good,Excellent,Excellent,275000
+1354,Average,768,2,396,768,768,1,1972,2007,5,0.0,0,656,Average,Average,Good,Average,133000
+1355,Average,833,0,0,833,833,1,1985,1985,5,0.0,0,625,Average,Average,Average,Excellent,112000
+1356,Below Average,1363,2,528,622,741,1,1910,1950,6,0.0,0,0,Average,Average,Fair,Good,125500
+1357,Good,2093,2,542,791,1236,2,1986,1991,7,123.0,1,0,Average,Average,Good,Good,215000
+1358,Good,1840,2,622,944,944,2,2001,2001,6,0.0,0,666,Good,Good,Good,Excellent,230000
+1359,Above Average,1668,1,271,856,1112,1,1950,2005,6,0.0,0,120,Average,Average,Average,Excellent,140000
+1360,Below Average,1040,2,420,0,1040,2,1949,1950,6,0.0,0,0,Average,Average,None,Fair,90000
+1361,Very Good,1844,2,620,1844,1844,2,2005,2006,7,366.0,1,976,Good,Good,Good,Excellent,257000
+1362,Above Average,1848,2,370,833,1053,1,1923,2000,8,0.0,1,0,Good,Average,Average,Good,207000
+1363,Good,1569,3,660,1386,1569,2,2007,2007,7,130.0,1,988,Good,Good,Good,Excellent,175900
+1364,Very Good,2450,3,1069,1284,1310,2,1998,1998,7,731.0,1,781,Good,Good,Good,Excellent,340000
+1365,Average,1144,1,336,1144,1144,1,1963,1963,6,0.0,0,25,Average,Average,Average,Average,124000
+1366,Above Average,1844,2,540,1844,1844,2,1969,1969,7,312.0,1,1110,Good,Good,Average,Good,223000
+1367,Above Average,1416,2,776,708,708,2,1968,1968,7,420.0,1,404,Average,Average,Average,Good,179900
+1368,Above Average,1069,2,440,1069,1069,2,1977,1977,4,0.0,1,360,Average,Average,Good,Average,127500
+1369,Above Average,848,2,420,848,848,1,2003,2003,3,170.0,0,686,Good,Good,Good,Excellent,136500
+1370,Average,1344,1,484,1024,1344,1,1958,1983,6,0.0,1,457,Average,Average,Average,Average,144000
+1371,Above Average,1252,2,528,1252,1252,1,1959,1959,7,243.0,0,0,Good,Good,Average,Excellent,142000
+1372,Good,2127,2,525,1223,1223,2,1994,1994,5,448.0,2,1000,Good,Good,Good,Excellent,271000
+1373,Average,1558,1,288,913,1048,1,1945,1950,6,0.0,1,580,Average,Average,Average,Average,140000
+1374,Average,804,1,240,788,804,1,1940,1992,4,294.0,2,510,Good,Average,Average,Average,119000
+1375,Above Average,1440,2,467,1440,1440,2,1981,1981,7,310.0,1,678,Good,Good,Good,Excellent,182900
+1376,Average,1838,2,372,732,734,2,2005,2005,7,0.0,1,0,Average,Good,Good,Excellent,192140
+1377,Above Average,958,2,440,958,958,2,1976,1976,5,0.0,0,958,Average,Average,Good,Average,143750
+1378,Below Average,968,1,216,656,968,2,1927,2007,5,0.0,0,0,Average,Average,Average,Average,64500
+1379,Above Average,1792,2,451,936,962,2,2000,2000,8,318.0,1,0,Average,Average,Good,Excellent,186500
+1380,Average,1126,2,484,1126,1126,2,1977,1977,5,0.0,1,936,Average,Average,Average,Fair,160000
+1381,Above Average,1537,2,462,1319,1537,1,1962,2005,7,237.0,1,0,Good,Good,Average,Average,174000
+1382,Below Average,864,2,528,864,864,1,1971,1971,5,0.0,0,616,Average,Average,Average,Average,120500
+1383,Very Good,1932,3,774,1932,1932,2,2008,2008,7,426.0,1,1336,Excellent,Excellent,Excellent,Excellent,394617
+1384,Above Average,1236,2,923,912,1236,1,1957,1996,6,0.0,0,600,Average,Average,Average,Average,149700
+1385,Good,1725,2,550,539,1040,2,1979,1979,6,96.0,1,315,Average,Average,Average,Average,197000
+1386,Above Average,2555,2,672,588,1423,2,1922,1994,11,0.0,1,0,Average,Average,Excellent,Fair,191000
+1387,Above Average,848,2,420,848,848,1,2004,2004,3,147.0,1,697,Good,Good,Good,Excellent,149300
+1388,very Excellent,2007,3,812,1017,1026,2,2008,2008,10,160.0,1,765,Excellent,Excellent,Excellent,Excellent,310000
+1389,Above Average,952,1,192,952,952,1,1916,1950,4,0.0,1,0,Fair,Average,Average,Fair,121000
+1390,Good,1422,2,626,1422,1422,2,2004,2004,7,106.0,0,0,Good,Good,Good,Excellent,179600
+1391,Above Average,913,1,240,814,913,1,1966,1966,6,0.0,0,187,Average,Average,Average,Good,129000
+1392,Average,1188,1,312,1188,1188,1,1962,1962,6,189.0,0,593,Average,Average,Average,Average,157900
+1393,Very Good,2090,2,556,1220,1220,2,1995,1996,8,438.0,1,1079,Good,Good,Good,Excellent,240000
+1394,Below Average,1346,1,384,560,796,1,1910,2000,6,0.0,0,0,Average,Average,Fair,Good,112000
+1395,Average,630,0,0,630,630,1,1970,1970,3,0.0,0,553,Excellent,Average,Good,Excellent,92000
+1396,Average,1792,0,0,896,896,2,1974,1974,8,0.0,0,0,Average,Average,Good,Average,136000
+1397,Very Good,1578,3,840,1573,1578,2,2008,2009,7,194.0,1,0,Excellent,Good,Good,Excellent,287090
+1398,Average,1072,2,525,547,1072,1,2005,2005,5,80.0,0,547,Average,Average,Good,Good,145000
+1399,Average,1140,0,0,1140,1140,1,2006,2006,6,0.0,0,0,Average,Average,Good,Excellent,84500
+1400,Good,1221,2,400,1221,1221,2,2004,2005,6,0.0,0,410,Good,Good,Good,Excellent,185000
+1401,Above Average,1647,2,460,953,953,2,1999,2000,7,0.0,1,0,Average,Average,Good,Excellent,175000
+1402,Above Average,2073,2,500,1542,2073,2,1978,1988,7,119.0,2,790,Average,Average,Good,Average,210000
+1403,Good,2340,1,252,1152,1188,2,1941,2006,9,0.0,2,275,Good,Excellent,Average,Excellent,266500
+1404,Average,1078,1,240,1078,1078,1,1950,1996,5,0.0,0,49,Good,Average,Average,Good,142125
+1405,Average,1256,1,276,1256,1256,1,1965,1965,6,0.0,0,830,Average,Good,Average,Good,147500
